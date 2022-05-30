@@ -6,8 +6,11 @@ The template can be found [here](https://www.overleaf.com/1438418697pvwpsxsfbhsq
 
 ## AWS Credentials
 BUCKET_NAMES =  ["corpus-iwo-internet-archive-wide00001"]
+
 AWS_ACCESS_KEY_ID = ***REMOVED***
+
 AWS_SECRET = ***REMOVED***
+
 ENDPOINT_URL = ***REMOVED***
 
 später als BUCKET_NAMES auch corpus-iwo-internet-archive-wide00010 und corpus-commoncrawl-main-2022-05 als BUCKET_NAMES
