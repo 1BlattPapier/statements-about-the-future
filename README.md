@@ -25,3 +25,21 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
    srun --mem=32g enroot import --output firsttest.sqsh docker://ghcr.io/niklasdeckers/web-archive-keras:master
    ```
 6. TODO
+
+## Brainstorming about topic
+- Daten über längeren Zeitraum
+- Klimawandel
+   - Riesen Ding
+- Leicht klassifizierbar
+- Unterthemen mit REGEX oder so? Sollte leicht zuzuordnen zu sein
+- Sentiment analysis?
+- Unsupervised clustering?
+- Statements about the future in Zeitklassen
+- In Jahren?
+   - Zieljahre?
+      - Aussagejahre
+      - Unsicherheiten mit reinnehmen!
+   - KI trainieren zu Aussagen
+      - Klassifizieren
+      - Aussagen zu Jahren treffen
+   - Evaluierung?
