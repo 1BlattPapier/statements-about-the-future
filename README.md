@@ -43,3 +43,19 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
       - Klassifizieren
       - Aussagen zu Jahren treffen
    - Evaluierung?
+## Concrete topic idea
+1. General classification of statements about the future
+2. 
+
+
+### Questions
+- How binding is the expose?
+   - How concrete should our ideas/technologies be?
+- Should we definitely use all data or are we allowed to restrict the data domain (platforms/websites/topics)?
+- Our vague idea: we want to classify/split the data in different "time classes". Tell about our current discussion. What seems practical? Inspiration?
+- What should be our end result?
+   - Should we have a proper validation method?
+   - Website where an arbitrary input is classified with a time?
+   - Visualisation of topic clusters?
+      - Subreddit future topic variation over time (maybe in reference to other official channels)
+      - Topics discussed long term or short term - how long-term are topics discussed?
