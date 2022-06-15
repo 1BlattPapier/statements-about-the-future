@@ -106,3 +106,4 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 
 ### Data
 - https://www.kaggle.com/datasets/andersward/10k-statement-data-for-us-biotech-companies
+- https://www.kaggle.com/datasets/linkanjarad/contexttopic-classification-from-statement
