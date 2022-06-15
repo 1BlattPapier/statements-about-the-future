@@ -59,3 +59,45 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
    - Visualisation of topic clusters?
       - Subreddit future topic variation over time (maybe in reference to other official channels)
       - Topics discussed long term or short term - how long-term are topics discussed?
+
+## Discussion on project expose
+### Timetable
+1. 24.06.2022: Usable data pipeline
+   - Common Crawl
+   - Evtl. Reddit dump
+   - Beschränkung auf Englisch (so weit wie möglich)
+   - Wahrscheinlich nicht web archive, weil Daten eher unpassend für uns
+2. 26.06.2022: First basic statements about the future classifier
+   - Most likely rule based, otherwise general trained model or tense classifier
+   - [Need to evaluate](https://github.com/cbjrobertson/ftr_classifier)
+   - Prompt engineering
+   - [The_grammar_of_future_time_reference](https://www.researchgate.net/publication/243786675_The_grammar_of_future_time_reference_in_European_languages)
+   - [Predictions](https://www.goodreads.com/quotes/tag?utf8=✓&id=predictions)
+3. Manual evaluation
+   - Probably above most complicated part
+   - Might have to concentrate on good classification
+4. 04.07.2022: Progress report presentation
+5. 17.07.2022: Topic clustering
+6. 31.07.2022: Interactive visualization by time and topics
+   - Probably [t-SNE](https://towardsdatascience.com/visualising-high-dimensional-datasets-using-pca-and-t-sne-in-python-8ef87e7915b)
+7.  29.08.2022, 22:00: Bug fixes, hot fixes, dirty rework
+
+### Discussions
+- Agreements
+   - We almost have to do unsupervised clustering?
+   - Data
+      - Reddit (Reddit dump)
+      - Myspace
+         - We need to evaluate how much is in our internet archive data?
+      - Blogs
+         - Most likely blogspot
+- What topic?
+   - What statements about the future?
+   - Tool for
+   - Subtopic analysis clustering?
+   - Extended sentinent/opinion clustering?
+- What (data) domain?
+   - Reddit
+   - Twitter
+   - Internet archive
+   - Blogs
