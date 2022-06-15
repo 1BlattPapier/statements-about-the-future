@@ -103,3 +103,6 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
    - Twitter
    - Internet archive
    - Blogs
+
+### Data
+- https://www.kaggle.com/datasets/andersward/10k-statement-data-for-us-biotech-companies
