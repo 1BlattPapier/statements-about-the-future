@@ -76,6 +76,8 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 3. Manual evaluation
    - Probably above most complicated part
    - Might have to concentrate on good classification
+   - Maybe prompt engineering
+   - Use data to train model
 4. 04.07.2022: Progress report presentation
 5. 17.07.2022: Topic clustering
 6. 31.07.2022: Interactive visualization by time and topics
