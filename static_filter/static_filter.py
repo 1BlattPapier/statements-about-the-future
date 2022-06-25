@@ -1,10 +1,9 @@
 import json
 import pandas as pd
-#import re
 
 class StaticFilter:
     
-    '''instantiate with the dataset, which needs to be with columns [rowid, timestamp, text]\n
+    '''instantiate with csv dataset, which needs to be with columns [text]\n
 
         filter() returns a dict of style:\n
 
@@ -20,8 +19,9 @@ class StaticFilter:
     ## for these pass through [stage2]
     # stemming has to be considered due to conjugation
 
-    def __init__(self, dataset):
-        with open("keywords.json", "r", encoding="utf8") as f:
+    def __init__(self, dataset, keywords):
+        
+        with open(keywords, "r", encoding="utf8") as f:
             d = json.load(f)
         f.close()
         
@@ -30,9 +30,10 @@ class StaticFilter:
         self.stage1.extend( d["stage1"]["timerefs"] )
         self.stage1.extend( d["stage1"]["verbs"] )
         self.stage1.extend( d["stage1"]["refs"] )
-        
-        self.stage2 = d["stage2"]["stemmed_verbs"]
-        
+
+        # not really stemmed but consider stemming based on performance of the filter
+        self.stage2 = d["stage2"]["stemmed_verbs"] 
+
         self.dataset = dataset
 
     def filter(self):
@@ -41,42 +42,55 @@ class StaticFilter:
         # 0 for for not future related
 
         
-        df = pd.read_csv(self.dataset)
+        df = pd.read_csv(self.dataset, index_col=0)
+        
         texts = df["text"]
+        print(len(texts))
         futures = []
-
+        k = 0
         for i in range(len(texts)):
-            stage1 = False
-            stage2 = False
+            
+            s1 = False
+            s2 = False
 
             for keyword in self.stage1:
                 if keyword in texts[i]:
-                    stage1 = True
+                    s1 = True
             
-            if stage1 == False:
-                futures.append[0]
-                break
-
-            for keyword in self.stage2:
-                if keyword in texts[i]:
-                    stage2 = True
+            if s1 == False:
+                futures.append(0)
             
-            if stage1 == True and stage2 == True:
-                futures.append[1]
-
+            else:    
+                
+                for keyword in self.stage2:
+                    if keyword in texts[i]:
+                        s2 = True
+                
+                if s1 == True and s2 == True:
+                    futures.append(1)
+                else:
+                    futures.append(0)
+            print(k)
+            k += 1
         if len(texts) == len(futures):
             df["tense"] = futures
 
-            dict = {"text" : texts, "tense" : futures}
-
-            return dict
+            return df
         
         else:
-            return {}
+
+            return pd.DataFrame(columns=["text"])
 
 
 
+if __name__ == "__main__":
+    
 
+    filter = StaticFilter("./english_tweets/cleaned_tweets_eng.csv", keywords="./english_tweets/keywords.json")
+
+    df = filter.filter()
+
+    df.to_csv("twitter_statements_tenses.csv")
 
 
 
