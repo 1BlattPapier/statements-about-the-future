@@ -107,3 +107,34 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 ### Data
 - https://www.kaggle.com/datasets/linkanjarad/contexttopic-classification-from-statement
 - https://www.kaggle.com/datasets/kiranbhagat/question-statment-command-classifications-dataset
+
+## Expose Meeting
+GPT-3 or not?
+- Too expensive
+
+Topic extraction
+- Should check early on
+- Could be a problem
+- Deployable
+- Github/papers with code probably better
+
+Word "represantation" screams like embedding
+
+
+Could be a problem: distributed by pyspark
+- Can ask him when we run into problems
+
+Dataset built with filters 
+- is okay
+- Should care about train test leakage
+- Should test how bert performs
+- Write both in paper
+- Note statistics early on
+- Care about train test split
+
+Metrics
+- What metrics do we use to valuate
+- Labeling by hand
+
+Send problems via mail again
+
