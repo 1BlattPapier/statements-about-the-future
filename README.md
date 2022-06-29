@@ -105,8 +105,11 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
    - Blogs
 
 ### Data
-- https://www.kaggle.com/datasets/linkanjarad/contexttopic-classification-from-statement
-- https://www.kaggle.com/datasets/kiranbhagat/question-statment-command-classifications-dataset
+- https://huggingface.co/datasets/mschi/twitter_stream_pile/resolve/main/twitter_stream_2020_02_01.tar
+
+- https://www.kaggle.com/datasets/kaggle/reddit-comments-may-2015
+
+- https://www.kaggle.com/datasets/patjob/articlescrape
 
 ## Expose Meeting
 GPT-3 or not?
