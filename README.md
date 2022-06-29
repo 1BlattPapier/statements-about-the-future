@@ -111,6 +111,8 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 
 - https://www.kaggle.com/datasets/patjob/articlescrape
 
+- https://files.pushshift.io/reddit/comments/daily/
+
 ## Expose Meeting
 GPT-3 or not?
 - Too expensive
