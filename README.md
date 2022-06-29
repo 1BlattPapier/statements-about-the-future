@@ -114,6 +114,9 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 
 - https://files.pushshift.io/reddit/comments/daily/
 
+### Topic-Classification
+- https://huggingface.co/eleldar/theme-classification
+
 ## Expose Meeting
 GPT-3 or not?
 - Too expensive
