@@ -115,6 +115,9 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 
 - https://files.pushshift.io/reddit/comments/daily/
 
+#### Emotion Dataset:
+- https://github.com/google-research/google-research/tree/master/goemotions/data/full_dataset
+
 ### Topic-Classification
 - https://huggingface.co/eleldar/theme-classification
 
