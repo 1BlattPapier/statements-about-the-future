@@ -116,6 +116,7 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 - https://files.pushshift.io/reddit/comments/daily/
 
 #### Emotion Classification:
+- https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-go-emotion
 - https://huggingface.co/bergum/xtremedistil-l6-h384-go-emotion
 - https://github.com/google-research/google-research/tree/master/goemotions/data/full_dataset
 
