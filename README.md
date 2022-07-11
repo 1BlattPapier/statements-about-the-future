@@ -151,10 +151,50 @@ Dataset built with filters
 - Write both in paper
 - Note statistics early on
 - Care about train test split
+Send problems via mail again
 
 Metrics
 - What metrics do we use to valuate
 - Labeling by hand
+- Significance of amount of handlables 
+- Sources - test different sources
 
-Send problems via mail again
-
+# Questions
+- What is the structure of common crawl (because of sampling)
+   - Time tags?
+- Paper? what focus
+   - What metrics
+   - Significance tests?
+   - Sources - test different sources
+- What short sentences do we exclude?
+   - Care about different formats from blogs, twitter, etc.
+   - 25 words upper limit of sentences
+- (Cleaning/Splitting/...)
+   - Not sure how we split
+   - NLTK
+   - Special character are a problem - also for static classification - false negatives
+# Out of scope Pipeline
+- Elavuation filter
+- Website
+# Pipeline
+- Single sentences
+- Small batch size
+- Pipeline should be streamed - json
+- Sampling in pipeline
+# Order of pipeline
+0. Sampling
+1. Cleaning
+   - UTF-8 tokens
+   - Everything except typical sentence things and letters
+   - URLs
+   - Splitting
+2. Language
+3. FTR classification
+4. Sentinent classification
+5. Topic classification
+6. Database
+# TODO
+- Table for pipeline what where, etc. (Table)
+- Raw template (Jonas)
+- Project template (Jonas)
+- Ask regarding paper (Martin)
