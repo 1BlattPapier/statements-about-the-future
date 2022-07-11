@@ -124,7 +124,7 @@ Datein sind WARC-Dateien. Die genaue Struktur könnt ihr euch mit s3cmd ls anzei
 - https://huggingface.co/facebook/bart-large-mnli
 
 ### Question or statement
-- https://huggingface.co/shahrukhx01/question-vs-statement-classifier?text=I+like+big+buts.
+- https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-question-vs-statement-classifier
 
 
 
