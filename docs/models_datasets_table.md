@@ -12,6 +12,9 @@
 |jonaskoenig/trump_administration_statement| [🤗](https://huggingface.co/datasets/jonaskoenig/trump_administration_statement) | c1 | train, test, validation | trump_administration_statement | text, ft_tense |
 | jonaskoenig/future-time-refernces-static-filter | [🤗](https://huggingface.co/datasets/jonaskoenig/future-time-refernces-static-filter) | c1 | treain, test, validation | statements_static1.csv | text, ft_tense |
 | jonaskoenig/Questions-vs-Statements-Classification |[🤗](https://huggingface.co/datasets/jonaskoenig/Questions-vs-Statements-Classification)| c2 | train, test, validation |[kaggle](https://www.kaggle.com/datasets/shahrukhkhan/questions-vs-statementsclassificationdataset) | text, labels
+|jonaskoenig/reddit-blogspot-twitter|[🤗](https://huggingface.co/datasets/jonaskoenig/reddit-blogspot-twitter)| ... | none | statements_sh_bal_cleaned.csv | text, source |
+|emotion| [🤗](https://huggingface.co/datasets/emotion) | c3 | train, test, validation all combined to one | ... | text, label |
+|go_emotions| [🤗](https://huggingface.co/datasets/go_emotions) | c3 | raw | ... |text all, labels for emotions| 
 
 
 ### Legende
@@ -20,5 +23,14 @@ c1 : removed faulty rows, removed all unicode (<U+000>) removed every http/https
 
 c2 : renamed column and removed useless column
 
+c3 : all labels where converted to banary label, which can be processed
 
 ## Models
+
+|Model Name| 🤗 | Task | Training dataset | BaseModel |
+|:------------:|:----------------:|:---------------:|:-------------------------:|:-------------------------:|
+|jonaskoenig/xtremedistil-l6-h256-uncased-go-emotion|[🤗](https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-go-emotion) | sentiment analysis | emotions, go_emotions | [microsoft/xtremedistil-l6-h256-uncased](https://huggingface.co/microsoft/xtremedistil-l6-h256-uncased)|
+|jonaskoenig/xtremedistil-l6-h256-uncased-question-vs-statement-classifier|[🤗](https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-question-vs-statement-classifier)| removing questions | jonaskoenig/Questions-vs-Statements-Classification | [microsoft/xtremedistil-l6-h256-uncased](https://huggingface.co/microsoft/xtremedistil-l6-h256-uncased) |
+|jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references-D1| [🤗](https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references-D1) | future time referenzes | jonaskoenig/trump_administration_statement, jonaskoenig/future-time-refernces-static-filter | [microsoft/xtremedistil-l6-h256-uncased](https://huggingface.co/microsoft/xtremedistil-l6-h256-uncased) | 
+
+
