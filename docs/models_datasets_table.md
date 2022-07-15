@@ -1,0 +1,4 @@
+| Dataset Name | Location on Ceph | Size of Dataset |  Cleaning Steps performed | Sources of Dataset | Models trained | Model properties | Labels added |
+|:------------:|:----------------:|:---------------:|:-------------------------:|:------------------:|:--------------:|:----------------:|:-----------:|
+|statements_sh_bal_cleaned.csv|/mnt/ceph/storage/data-tmp/teaching-current/ms19hove/Datasets/temp_ds/statements_sh_bal_cleaned.csv|~14mio rows|splitted, URLS with little success|twitter dump 01/02/2020, reddit dump may2015, blogs and news from kaggle| ... | ... | ... |
+|statements_static1.csv|/mnt/ceph/storage/data-tmp/teaching-current/ms19hove/Datasets/temp_ds/statements_static1.csv|~14mio rows|splitted, URLS with little success|twitter dump 01/02/2020, reddit dump may2015, blogs and news from kaggle| ... | ... | 0,1 Labels of martins static filter with one stage |
