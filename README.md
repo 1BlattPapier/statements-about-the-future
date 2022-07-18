@@ -1,6 +1,10 @@
 # statements-about-the-future
 This repo is intended to hold our code for the project with the general topic "statements about the future" in the seminar "Big Data and Language Technologies".
 
+## Documentation:
+
+- [Datasets and Models](docs/models_datasets_table.md)
+
 ## Documents
 - [The project expose can be found here.](https://www.overleaf.com/1438418697pvwpsxsfbhsq)
 - [The project presention can be found here.](https://www.overleaf.com/5785149735scbmdytpypzp)
