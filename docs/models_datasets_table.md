@@ -19,7 +19,7 @@
 |jonaskoenig/future-time-refernces-static-filter-D2|[🤗](https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references-D2)|c1|train,test,validation| static_filter_2_classified.csv | text, ft_tense |
 |emotion| [🤗](https://huggingface.co/datasets/emotion) | c3 | train, test, validation all combined to one | ... | text, label | statements_static2.csv |text, ft_tense |
 |go_emotions| [🤗](https://huggingface.co/datasets/go_emotions) | c3 | raw | ... |text all, labels for emotions| 
-
+|yahoo_answers_topics|[🤗](https://huggingface.co/datasets/yahoo_answers_topics)| c4 | all | ... |texr, topics|
 
 ### Legende
 
@@ -28,6 +28,8 @@ c1 : removed faulty rows, removed all unicode (<U+000>) removed every http/https
 c2 : renamed column and removed useless column
 
 c3 : all labels where converted to banary label, which can be processed
+
+c4 : question_title and question_content combined to one label and are concated to the best_answer
 
 ## Models
 
@@ -38,4 +40,5 @@ c3 : all labels where converted to banary label, which can be processed
 |jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references-D1| [🤗](https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references-D1) | future time referenzes | jonaskoenig/trump_administration_statement, jonaskoenig/future-time-refernces-static-filter-D1 | [microsoft/xtremedistil-l6-h256-uncased](https://huggingface.co/microsoft/xtremedistil-l6-h256-uncased) | 
 |jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references-D2|[🤗](https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references-D2)|future time referenzes |onaskoenig/trump_administration_statement, jonaskoenig/future-time-refernces-static-filter-D2 |[microsoft/xtremedistil-l6-h256-uncased](https://huggingface.co/microsoft/xtremedistil-l6-h256-uncased) |
 |jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references|[🤗](https://huggingface.co/jonaskoenig/xtremedistil-l6-h256-uncased-future-time-references)| future time referenzes | jonaskoenig/trump_administration_statement, jonaskoenig/future-time-referenzes-faulty | [microsoft/xtremedistil-l6-h256-uncased](https://huggingface.co/microsoft/xtremedistil-l6-h256-uncased)|
+|jonaskoenig/topic_classification_04| [🤗](https://huggingface.co/jonaskoenig/topic_classification_04) | topic clustering |yahoo_answers_topics |[microsoft/xtremedistil-l6-h256-uncased](https://huggingface.co/microsoft/xtremedistil-l6-h256-uncased) |
 
