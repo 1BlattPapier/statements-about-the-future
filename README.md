@@ -5,6 +5,10 @@ This repo is intended to hold our code for the project with the general topic "s
 
 - [Datasets and Models](docs/models_datasets_table.md)
 
+## cleaning englisch bert pipeline
+
+- [classification_pipeline](https://github.com/jonaskonig/classification_pipeline)
+
 ## Documents
 - [The project expose can be found here.](https://www.overleaf.com/1438418697pvwpsxsfbhsq)
 - [The project presention can be found here.](https://www.overleaf.com/5785149735scbmdytpypzp)
