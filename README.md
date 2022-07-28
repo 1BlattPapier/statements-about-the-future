@@ -10,6 +10,9 @@ This repo is intended to hold our code for the project with the general topic "s
 - [classification_pipeline](https://github.com/jonaskonig/classification_pipeline)
 
 ## Documents
+- [Finla Project report](https://www.overleaf.com/2415279767jkgkdqyxnwyd)
+- [sramble page](https://www.overleaf.com/6737186667fhtgyhszpbsz)
+
 - [The project expose can be found here.](https://www.overleaf.com/1438418697pvwpsxsfbhsq)
 - [The project presention can be found here.](https://www.overleaf.com/5785149735scbmdytpypzp)
    - [Zero-Shot Learning in Modern NLP](https://joeddav.github.io/blog/2020/05/29/ZSL.html)
