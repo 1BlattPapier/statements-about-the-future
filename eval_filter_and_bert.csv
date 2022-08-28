@@ -1,0 +1,601 @@
+Unnamed: 0,text,emotion,topic,emotionhandlabel,topichandlabel,futurehandlabel,bertlabel,futureright,falsepositive,falsenegative,tense,futurerightstatic,falsepositivestatic,falsenegativestatic,bertandstatic
+0, Lose a big case and it's entirely possible you will not be able to get insurance (or not get it at anything resembling a reasonable price).,neutral,"Health,Business & Finance,Politics & Government",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+1,Then the inevitable baths/showers/cups of tea/making sandwiches for the next day before the evening briefing and the scamper down to the neighbouring hotel for dinner.,neutral,Education & Reference,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+2,1933: Adolf Hitler turned Germany,,,,,0,0,1,0,0,0,1,0,0,1
+3,"I was amazed in Japan, there's a mark on the platform to show where the carriage door will open and everyone queues at those points.","surprise,admiration",Society & Culture,2.0,2.0,0,1,0,1,0,1,0,1,0,1
+4," @Marm_S: ""It has become appallingly obvious that our technology has exceeded our humanity"" Albert Einstein","neutral,surprise,admiration,approval","Science & Mathematics,Education & Reference",1.0,2.0,0,1,0,1,0,1,0,1,0,1
+5,"and to answer your questions, the closer your score is to about 21 or thereabouts, the better you did.",,,,,0,0,1,0,0,0,1,0,0,1
+6,People are waiting for the opportunity to use them against you,,,,,0,0,1,0,0,0,1,0,0,1
+7,Nothing was going to stop my celebration this time.,"joy,neutral","Society & Culture,Entertainment & Music",1.0,2.0,0,1,0,1,0,1,0,1,0,1
+8,Some of the tattoo pictures especially look photo-shopped.,,,,,0,0,1,0,0,0,1,0,0,1
+9,"Problem is, male geeks outnumber the female geeks 100:1 at least.",,,,,0,0,1,0,0,0,1,0,0,1
+10,I'm so glad they kept performing.,,,,,0,0,1,0,0,0,1,0,0,1
+11,I would assume that 7-11 buildings were built to be 7-11's.,,,,,0,0,1,0,0,0,1,0,0,1
+12,"""I'll help you to learn to write as well as read."" Erim offered.","caring,neutral","Education & Reference,Society & Culture",2.0,2.0,0,1,0,1,0,1,0,1,0,1
+13,"You can write it almost exactly like Python (eg, without all the advanced Ruby features) for as long as you need.",,,,,0,0,1,0,0,0,1,0,0,1
+14,i'll never said '' ihateyouu '' if you don't start it first .,neutral,"Society & Culture,Education & Reference",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+15,"Say what you will about large-scale livestock farms and ranches, but their regulations and safety standards are quite demanding.",neutral,"Business & Finance,Education & Reference,Science & Mathematics",1.0,1.0,0,1,0,1,0,1,0,1,0,1
+16, @SrworldwideM: Have you listened to @colinclyne new single Within Hindsight Music fans really loving this beautiful ballad Liste,,,,,0,0,1,0,0,0,1,0,0,1
+17,Don't kno if im goin to school tomorrow,neutral,Education & Reference,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+18,"Same fucking shit, 4 years later.",,,,,0,0,1,0,0,0,1,0,0,1
+19,It turns out Delta Dandridge is going to set Cooper Thorne straight about a few things...,neutral,"Sports,Entertainment & Music",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+20,"When I sat down and imagined her, here's what she told me:I thought I'd have the normal life.",,,,,0,0,1,0,0,0,1,0,0,1
+21,@KingTyreke the same !! I'm coming over tomorrow for real lol last time I got caught up.,amusement,"Entertainment & Music,Family & Relationships,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+22,The UK's empire was falling apart through most of the 20th century.,,,,,0,0,1,0,0,0,1,0,0,1
+23,Kasi DAMN THAT GLOW UP From someone who are reaching Filipino's standards o,,,,,0,0,1,0,0,0,1,0,0,1
+24,I love a good cook book and Modern Spice looks like one.,,,,,0,0,1,0,0,0,1,0,0,1
+25,"For this article I have relied heavily on the drawings of Rachele Giudici, who left us a valuable record of the culture of this region.",,,,,0,0,1,0,0,0,1,0,0,1
+26,"It was much fun to actually program the machine itself, enabling Mode X in Assembler or using interrupts.",,,,,0,0,1,0,0,0,1,0,0,1
+27,The Tiny Tina Dungeon Master DLC is rather brilliant.,,,,,0,0,1,0,0,0,1,0,0,1
+28, learn how to think critically and practice a lot and it will become second nature.,"neutral,caring,optimism,approval",Education & Reference,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+29,Plus yeah the timeline seems fishy.,,,,,0,0,1,0,0,0,1,0,0,1
+30,@Kevsey80 sit on it that will melt the bastard !,"anger,annoyance,neutral",Family & Relationships,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+31,@M8tchelI @TwitterSupport @jack IM BEING THREATENED SICK HIM,,,,,0,0,1,0,0,0,1,0,0,1
+32,We voted for him to do a job.,,,,,0,0,1,0,0,0,1,0,0,1
+33,"(BTW, how's my spelling look?)For me, a good story is about its characters.",,,,,0,0,1,0,0,0,1,0,0,1
+34,I'm going to find something of yours and break it.,"neutral,desire","Entertainment & Music,Society & Culture,Family & Relationships",0.0,0.0,1,1,1,0,0,1,1,0,0,1
+35,I will give +5 star points to the first to post what it is because I had no idea until the bartender told me.,neutral,"Entertainment & Music,Business & Finance",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+36,"@ravfox @deborahmou We will have to agree to differ, what's more Stephen Fry is in the 2nd as Mycroft.","confusion,neutral","Politics & Government,Sports",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+37,Their battle will begin in September 2013.,neutral,"Sports,Entertainment & Music",2.0,0.0,1,1,1,0,0,1,1,0,0,1
+38," @WillianSean_: 00:00 @_xsharr #liefde / toch wel een trouw hondje jij, iedere avond Lees ik deze tweet weer...",neutral,"Society & Culture,Education & Reference",0.0,0.0,0,1,0,1,0,0,1,0,0,0
+39,"As I moved into the future portion, I shared the importance of becoming customer value-driven.","approval,neutral","Business & Finance,Education & Reference",1.0,2.0,0,1,0,1,0,1,0,1,0,1
+40,I know all the other sites/services/programs but I don't know what one.,,,,,0,0,1,0,0,0,1,0,0,1
+41,"On the other hand, it looks like it will work really well.",admiration,Health,1.0,0.0,1,1,1,0,0,1,1,0,0,1
+42,"A friend of mine is going to be a father in a couple months, he's a little freaked out.","neutral,fear","Family & Relationships,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+43,"People will remember that this guy is human, when we are always [outside of the movie] dehumanizing him, calling him an idiot, a puppet, a failed president.","neutral,annoyance,anger",Politics & Government,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+44,"In addition to plays, she also writes screenplays and short stories.",,,,,0,0,1,0,0,0,1,0,0,1
+45, @ARCANEINTENSITY: sweets and loud musica night of light where no child sleeps ,,,,,0,0,1,0,0,0,1,0,0,1
+46,The good news is it's going to self-correct eventually Apple will either open up the methods for app delivery or lose ground to open platforms like Android.,"approval,neutral,optimism,admiration",Computers & Internet,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+47,BTW your mom is an evil bitch who will sell U ALL for the right price just saying,"anger,annoyance","Family & Relationships,Business & Finance",2.0,2.0,0,1,0,1,0,1,0,1,0,1
+48,"The graph is a statement about not spending your prime years to (just) prepare for the future, rather seize the day! Be bold! Make mistakes! Fail gloriously.","caring,neutral","Education & Reference,Science & Mathematics,Business & Finance",2.0,0.0,0,1,0,1,0,1,0,1,0,1
+49,It's @kimrichey this week on SongTellers! Well talk about the beginnings of her career to now.,,,,,1,0,0,0,1,0,0,0,1,1
+50," @zeyxwt: lgbtq+ living in turkey, promote yourselves under this tweet or link your gofundmeothers rt to spread",,,,,0,0,1,0,0,0,1,0,0,1
+51,"Her amended complaint, which includes pages from her book showing the mistakes, can be seen here.",,,,,0,0,1,0,0,0,1,0,0,1
+52,"Are you going to take her up to your room now?"" Sumirena-san glared down at Erim's tear-streaked face before turning to pick up another heavy crate of bottles from the bar.","neutral,curiosity","Entertainment & Music,Society & Culture",0.0,1.0,0,1,0,1,0,1,0,1,0,1
+53, @Thecheerlife_: My child will have a full before she's 6 #RealTalk,neutral,Family & Relationships,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+54,"Also, you wont need to worry about what uses the instance method syntax and what uses the 'built-in' syntax.",,,,,0,0,1,0,0,0,1,0,0,1
+55,"Well, you could ask to pick up your tickets at the will call box for no additional charge.",neutral,"Sports,Entertainment & Music",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+56,"If your best friend won't give you a hug, it's because he's sucked cocks and is afraid you'll find out.",fear,Family & Relationships,2.0,2.0,0,1,0,1,0,1,0,1,0,1
+57, @henderhopclair: the way he holds her hands in this gif And what if this Was my last straw?,,,,,0,0,1,0,0,0,1,0,0,1
+58,Beware the Google Alerts!bertas said...,,,,,0,0,1,0,0,0,1,0,0,1
+59,i got too many hoes but they aint you,,,,,0,0,1,0,0,0,1,0,0,1
+60,"""Well I don't, not really,"" I said, ""but it will be fine.","approval,neutral",Education & Reference,1.0,0.0,0,1,0,1,0,1,0,1,0,1
+61," Since this article is really about the government repression of free speech in opposition to my wishes, rights, and the constitution of the United States.",,,,,0,0,1,0,0,0,1,0,0,1
+62,It's obvious that the majority of reddit users don't care about vote-up posts...,,,,,0,0,1,0,0,0,1,0,0,1
+63,&gt;This is just your jaded outlook painting all of them with an over-broad brush.,,,,,0,0,1,0,0,0,1,0,0,1
+64,The U.S administration must #HandsOffEthiopia.,,,,,0,0,1,0,0,0,1,0,0,1
+65,"Except it's not a *culture* that is going to execute this person, it's a *country*.","neutral,disapproval","Politics & Government,Society & Culture",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+66,"I just finished Carolyn's latest Burnt Boot book and oh yes, it is a winner! I'll have to put Linda's book on my tbr list.","optimism,approval,excitement,admiration",Entertainment & Music,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+67,"Kudos for trying to change the look, but there's a reason dark themes are generally avoided and thus poorly supported.",,,,,0,0,1,0,0,0,1,0,0,1
+68,"@1Dlightmyworldx @sandybeales @Davina_Resto @annieeenguyen @amy_deee hehehehe we won't stop till he does, it will happen eventually.","optimism,amusement,neutral","Sports,Politics & Government",2.0,0.0,1,1,1,0,0,1,1,0,0,1
+69, @dylanmsmitty: Officer Michael Fanone is an American hero and Kevin McCarthy is an American traitor.,,,,,0,0,1,0,0,0,1,0,0,1
+70,"This way, I wouldn't have to hear people complaining as much, and the unusually angry complainers would be happy as well, and continue using reddit, making everyone happy!",,,,,0,0,1,0,0,0,1,0,0,1
+71,but you'll never find another ! (;,"sadness,neutral,disappointment,disapproval",Family & Relationships,0.0,1.0,1,1,1,0,0,1,1,0,0,1
+72,You wait all women will be wearing them soon,neutral,"Society & Culture,Health,Family & Relationships",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+73, @BenjaminJurkovi: Send prayers for Wenatchee ,,,,,0,0,1,0,0,0,1,0,0,1
+74,Regional card blocking (card issuers blocking domestic payment cards for usage outside of Europe) continues to be successful with one country reporting significant resultant falls in skimming related losses.,,,,,0,0,1,0,0,0,1,0,0,1
+75,I challenged the participants to become the leaders in Agile and the customer value drive mindset.,"neutral,disappointment,realization","Business & Finance,Computers & Internet,Education & Reference",0.0,2.0,0,1,0,1,0,1,0,1,0,1
+76,"LoL,where did u write? @AKmafumo: Got my learners{YEY ME}...nw I mst jst wait 4 some1 hu is willing 2 risk ...",amusement,"Education & Reference,Entertainment & Music,Family & Relationships",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+77,"Really, I hope it comes tomorrow.",optimism,"Entertainment & Music,Society & Culture,Politics & Government",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+78," The iPad looks like it will serve that function pretty well, and provide a decent web-browser, as well as the app-store which could have some interesting goodies in it.","admiration,neutral,approval",Computers & Internet,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+79, @OurTeenFacts: i want someone who'll ask me out because they miss me.,"neutral,desire,sadness",Family & Relationships,2.0,2.0,0,1,0,1,0,1,0,1,0,1
+80, @JackPosobiec: Lead witness in US case against Julian Assange admits to fabricating evidence against him in exchange for a deal with the,,,,,0,0,1,0,0,0,1,0,0,1
+81,I lowkey wish I made this move right outta high school....prolly be hoopin on tv next year...Fucks wit Coach D,"desire,anger,annoyance,disgust",Sports,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+82,"Seriously, if I had wall space I would consider either.",,,,,0,0,1,0,0,0,1,0,0,1
+83," Granted, during the original space race, NASA did the ground work and built the technologies that will enable all future advances.","approval,neutral",Science & Mathematics,2.0,2.0,0,1,0,1,0,1,0,1,0,1
+84," Generally, we'll answer honestly.",approval,Society & Culture,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+85,Good one for the prompt.,,,,,0,0,1,0,0,0,1,0,0,1
+86,"If you don't, you'll find an excuse.",neutral,"Family & Relationships,Society & Culture",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+87,"Join me for Floral Friday Fotos by linking your flower photos below, and please leave a comment once you have done so!13 comments: Hi! Nice capture.",,,,,0,0,1,0,0,0,1,0,0,1
+88,I grow all my Alocasia plants in pots.,,,,,0,0,1,0,0,0,1,0,0,1
+89,This will make the mouse not be able to leave the monitor it's on.,neutral,Computers & Internet,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+90, @readtedium: Where home security ends and security theater begins.,,,,,0,0,1,0,0,0,1,0,0,1
+91,"Anyone who has been even a moderate, rule-following contributor, will be given access.",neutral,Politics & Government,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+92,[More.](Hope they won't ruin my favorite media player but I suspect they will.,optimism,"Computers & Internet,Entertainment & Music,Sports",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+93,If me and Steven ever build a house..,,,,,0,0,1,0,0,0,1,0,0,1
+94,"Lt Carstairs is played by David Savile who'll be back as Winser in The Claws of Axos, and Colonel Charles Crichton in The Five Doctors.",neutral,"Entertainment & Music,Sports",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+95, I was never really interested in these activity trackers until I learned more about them through Weight Watchers.,,,,,0,0,1,0,0,0,1,0,0,1
+96,I'd have zip ties through the chambers/barrels.,,,,,0,0,1,0,0,0,1,0,0,1
+97,I love the glass boxes you have used as display cabinets and will look out for these in charity shops from now on.,love,"Society & Culture,Business & Finance",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+98,"Sadden! ); Guess we'll be drifting apart cos we're all in different classes, courses and schools! :(",sadness,Education & Reference,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+99,"Haha, I work from home, so she'll be the one at the office all day.",amusement,"Family & Relationships,Entertainment & Music,Business & Finance",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+100,"Which is basically a joke when you want to talk about real wisdom, real big picture sort of intelligence.",,,,,0,0,1,0,0,0,1,0,0,1
+101,My keynote was entitled the Foundations and Future of Agile.,neutral,Computers & Internet,2.0,2.0,0,1,0,1,0,0,1,0,0,0
+102,"from Spokane Valley WA for your purchase To see more products, please visit ",,,,,0,0,1,0,0,0,1,0,0,1
+103,"From 1979 to 1983, the company produced at least a dozen and a half titles, many of them knockoffs of existing hits.",,,,,0,0,1,0,0,0,1,0,0,1
+104,"was about to go to war in Kuwait), there was much more at stake, as Stone and screenwriter Stanley Weiser saw the fictional conversation unfolding.",neutral,"Education & Reference,Society & Culture,Entertainment & Music",1.0,1.0,0,1,0,1,0,0,1,0,0,0
+105,You have to be a U.S. citizen at birth.,,,,,0,0,1,0,0,0,1,0,0,1
+106, ReplyDelete one of my favorite U2 lines.,,,,,0,0,1,0,0,0,1,0,0,1
+107,For Obama to attempt to smear McCain's record would make HIM the swiftboater.,,,,,0,0,1,0,0,0,1,0,0,1
+108,"I decided to sell a few years ago to avoid the ""It's not IF you'll crash, but WHEN"" rule.","neutral,approval",Business & Finance,1.0,2.0,0,1,0,1,0,1,0,1,0,1
+109," and I REALLY thought Obama had the balls to stand up to these assholes, the events of the past few weeks sure made me look like an asshole (FISA, IRAN, CLARK).",,,,,0,0,1,0,0,0,1,0,0,1
+110,She and her love will be yours if you try your best.,"love,caring",Family & Relationships,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+111,This is why I say that your outlook is basically misogynist.,,,,,0,0,1,0,0,0,1,0,0,1
+112,"Get the right item, in the right fabric, with the right specifications.",,,,,0,0,1,0,0,0,1,0,0,1
+113, @Drakee_TakeCare: I will never say I wish I never met you.,"desire,neutral,disappointment,sadness",Family & Relationships,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+114, My god that must take some self control...,,,,,0,0,1,0,0,0,1,0,0,1
+115,I was gunna post a link to lasanga cat...,,,,,0,0,1,0,0,0,1,0,0,1
+116,I dunno how you guys walk around with those things.,,,,,0,0,1,0,0,0,1,0,0,1
+117, It is my position that all religions contain false beliefs.,,,,,0,0,1,0,0,0,1,0,0,1
+118,The actual responsibility of thinking and cleaning up the mess is in someone elses scope.,,,,,0,0,1,0,0,0,1,0,0,1
+119," Some of those children then go on to become the next generation's adult religious nuts, and the cycle continues.",neutral,Society & Culture,2.0,2.0,0,1,0,1,0,1,0,1,0,1
+120,3 comments:Scott Law said...,,,,,0,0,1,0,0,0,1,0,0,1
+121, @WEYDOT_: @__KrispyKreme: @HollyWooDaniels: @DistinCraay_: Serena Williams is the female equivalent to Tempa T - Where's the ...,neutral,Sports,1.0,2.0,0,1,0,1,0,0,1,0,0,0
+122,Each week they produce a variety of creations which I'm sure you will agree are very inspiring.,"approval,admiration","Society & Culture,Business & Finance,Entertainment & Music",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+123,SopraceneriThis is located north of the Monte Ceneri pass.,,,,,0,0,1,0,0,0,1,0,0,1
+124,"If you have time, it is always good to learn a new language.",,,,,0,0,1,0,0,0,1,0,0,1
+125,The goal was replace all the white circles with red ones.,,,,,0,0,1,0,0,0,1,0,0,1
+126,"I assume Peter Parker will be played by the guy from Twilight or, maybe, Justin Bieber.","neutral,confusion","Sports,Entertainment & Music",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+127,I think he understands this.,,,,,0,0,1,0,0,0,1,0,0,1
+128," @allkpop: [UCC] BTS Jungkook, ASTRO Cha Eun Woo, and BLACKPINK Jennie are the most loved K-pop idols in South Korea for the past 3 years",,,,,0,0,1,0,0,0,1,0,0,1
+129,The attempts at drawers using matchboxes and veneer were not so successful and these will have to be redone in due course.,"neutral,optimism,disapproval,disappointment","Health,Business & Finance",1.0,0.0,1,1,1,0,0,1,1,0,0,1
+130,And to give you a picture of the might of the US navy then: The US has seven fleet groups.,,,,,0,0,1,0,0,0,1,0,0,1
+131, @KickassMDupont: @STheMost it never happens to me...maybe I'll act more artsy,"neutral,optimism","Health,Society & Culture",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+132,"I'm going to go ahead and sound like a cheap ballad now but, sometimes you have to fight for the one you love.",love,Entertainment & Music,2.0,0.0,0,1,0,1,0,1,0,1,0,1
+133,As soon as we have a cheap and reliable ticket to LEO (SpaceX anyone?) the game will truly change.,"optimism,neutral","Sports,Entertainment & Music",2.0,0.0,1,1,1,0,0,1,1,0,0,1
+134,She is always willing to help an author out and is tireless when it comes to promoting the romance community.,"neutral,caring,approval,admiration","Family & Relationships,Education & Reference,Entertainment & Music",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+135,"Diptera - 34 - must try harderButterflies - 1Moths - 55Insects RSO - 9Echinoderms - 1Fish - 4Amphibians - 2Birds - 83Mammals - 5Others - 1 (nemertean worm)As can be seen, I really ought to start looking at stuff with six legs sometime soon.",,,,,0,0,1,0,0,0,1,0,0,1
+136," 4) I will take comfort in knowing that, as of this moment, this comment has 164 points, and you have 696 comment karma total.","neutral,approval",Society & Culture,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+137,Perhaps you can let me know and leave a comment below.,,,,,0,0,1,0,0,0,1,0,0,1
+138,I know you are struggling but I will be praying for you and the pain to subside.,"caring,sadness,optimism","Society & Culture,Health",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+139,It's so obvious that he and rest of those people don't care about anything or anyone.,,,,,0,0,1,0,0,0,1,0,0,1
+140," You could be born anywhere in the world, to U.S. parents, and qualify.",,,,,0,0,1,0,0,0,1,0,0,1
+141,As I wrote before we were going to try to remove these awful stents this time.,"annoyance,disgust,neutral,anger",Sports,2.0,1.0,0,1,0,1,0,1,0,1,0,1
+142, Every day there is a different activity to do and share on social media.,,,,,0,0,1,0,0,0,1,0,0,1
+143,@Anoukk_Shikari yeah :3 I won't have human interaction ;P I'll just go talk to my cat :L,neutral,"Society & Culture,Entertainment & Music",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+144,Im so sorry Meaghan! I am sending you my best thoughts and I am thinking of you!! I know it will get better soon! Love Love JettychanKelley with Amy's Angels said...,"love,sadness","Entertainment & Music,Society & Culture",2.0,0.0,1,1,1,0,0,1,1,0,0,1
+145,"So, this is very similar to mainstream IQ tests.",,,,,0,0,1,0,0,0,1,0,0,1
+146,"As were different ""coding techniques"".",,,,,0,0,1,0,0,0,1,0,0,1
+147,He will not claim a mortal Queen and will do anything to stop her.,neutral,"Politics & Government,Society & Culture",0.0,0.0,1,1,1,0,0,1,1,0,0,1
+148,"I do not tolerate in particular sexism, racism nor homophobia.",,,,,0,0,1,0,0,0,1,0,0,1
+149,"No, I'm disgusted that when a fellow Democrat speaks THE TRUTH about an issue like this, our Candidate runs for the hills, in fear of the Right Wing-Nut Fear Machine.",,,,,0,0,1,0,0,0,1,0,0,1
+150,Tate doesn't disclose its fees until authors either submit a manuscript or request more info.,,,,,0,0,1,0,0,0,1,0,0,1
+151,"Their ""Zionist enemy"" will gladly give them land to build their own state and Israel has zero desire to kill or harm them.",neutral,"Politics & Government,Society & Culture",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+152,"She knows who she is, so the rest of my readers will just have to wonder...........","surprise,neutral,curiosity","Entertainment & Music,Politics & Government",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+153,Guys CAREFUL!! NONE of those Ideas have been approved by a woman in ANY WAY!! you will get DOWNVOTED!!,"caring,neutral,annoyance,anger","Family & Relationships,Politics & Government,Health",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+154," @kenziii19: Bout to go to bed, rodeo tomorrow with my girls @iokessler and @tayy_elexiss &lt;3 gonna find us some cute cowboys ;) #co ...",neutral,"Family & Relationships,Sports",0.0,2.0,1,1,1,0,0,1,1,0,0,1
+155,How Does Copper Fit Work?,,,,,0,0,1,0,0,0,1,0,0,1
+156,We figured it would be a birdy day with a sunrise looking like a big bird was coming up with the sun.,,,,,0,0,1,0,0,0,1,0,0,1
+157,@KiLLaKaMilZz yea im going to for real lol,amusement,"Entertainment & Music,Family & Relationships",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+158,Either Taupo or Rotorua will provide you with what you need and the guide will supply the tackle etc.,neutral,Sports,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+159,Id just really want a ,,,,,0,0,1,0,0,0,1,0,0,1
+160,This game is great and everybody should play it.,,,,,0,0,1,0,0,0,1,0,0,1
+161,But if you're keen...,,,,,0,0,1,0,0,0,1,0,0,1
+162,This will probably happen sometime this year.,optimism,Sports,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+163,Good luck with selling your house.,,,,,0,0,1,0,0,0,1,0,0,1
+164,"Giving you space, hoping in the end you'll see what should happen &lt;/3",optimism,"Society & Culture,Family & Relationships,Science & Mathematics",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+165,Perhaps you should just accept that she is going to use them because she's comfortable with her sexuality and let it go.,neutral,"Family & Relationships,Health",1.0,2.0,0,1,0,1,0,1,0,1,0,1
+166,How about Kell from A Darker Shade of Magic?,,,,,0,0,1,0,0,0,1,0,0,1
+167,that will be my MAIN attire .,neutral,Society & Culture,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+168,"Once again, I will be the devil and say portal was not very challenging either.","annoyance,neutral,disapproval,approval","Entertainment & Music,Computers & Internet",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+169, ReplyDelete Replies It is a very good question.,,,,,0,0,1,0,0,0,1,0,0,1
+170,Some tender plants hurt roses like cold.,,,,,0,0,1,0,0,0,1,0,0,1
+171, I didn't realise that my little brother had become a sex criminal behind my back.,"realization,disappointment,surprise","Society & Culture,Entertainment & Music,Family & Relationships",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+172, @KatGraham: With @julieplec @kevwilliamson heading to golden globes event! Best dates ever.,admiration,"Entertainment & Music,Sports,Family & Relationships",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+173, @LoverboyElmo: These niggas in the military making money but I'll never do it,"neutral,disapproval,sadness,disappointment",Politics & Government,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+174, Post your reviews on social media (pick one or two dont stress about more) and soon others will find you.,"neutral,caring","Computers & Internet,Business & Finance",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+175, It will be a lot easier to use on planes and cars than my laptop.,"neutral,approval,optimism",Computers & Internet,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+176,"@arcaneevilmind I'll call Play De Record, Or I could save my money for Thomas Gold, hmmm",neutral,"Sports,Entertainment & Music",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+177," Since tomorrow is Sunday (the day I share books that I was unable to when they were released), I am featuring The Liverpool Girls by Pam Howes.",neutral,"Entertainment & Music,Sports",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+178,"I love my ""job."": )No comments:",,,,,0,0,1,0,0,0,1,0,0,1
+179,I'll be sure to check her stuff out someday :),optimism,Family & Relationships,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+180, @cherryjambaby: @thicko_mode wants to share all her curves with you! ,,,,,0,0,1,0,0,0,1,0,0,1
+181,"Must do it now!After that, more de-cluttering until my Doctor appointment.",,,,,0,0,1,0,0,0,1,0,0,1
+182, I'm going to be very busy.,neutral,"Entertainment & Music,Society & Culture",1.0,0.0,1,1,1,0,0,1,1,0,0,1
+183,I am happy to say these plants were all purchased at local nurseries.,,,,,0,0,1,0,0,0,1,0,0,1
+184, @sumofieId: So its definitely raining in Chicago ,,,,,0,0,1,0,0,0,1,0,0,1
+185,Oh my god! My waffle....,,,,,0,0,1,0,0,0,1,0,0,1
+186,"I heard an NPR story about Alex a couple years ago, and I thought it was fascinating.",,,,,0,0,1,0,0,0,1,0,0,1
+187, @Pr0fessorXavier: i can't bring myself to watch the sherlock holmes movies because to me Benedict Cumberbatch will always be sherlock.,"neutral,disapproval","Education & Reference,Society & Culture,Entertainment & Music",2.0,2.0,0,1,0,1,0,1,0,1,0,1
+188,"I feel sure many readers of this bloggery are ahead of me, and WAY ahead of Hoagland.",,,,,0,0,1,0,0,0,1,0,0,1
+189,"Worked for me, just don't catch the damn thing on fire! About 1:30 will do, depending on how powerful your microwave is.","annoyance,neutral,anger,approval","Health,Science & Mathematics",1.0,0.0,0,1,0,1,0,1,0,1,0,1
+190,"So if you have any interest at all you can learn and you won't just be completely dominated, you'll actually have fun.","amusement,joy","Family & Relationships,Education & Reference",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+191,"""To the extent there is going to be heat,"" said Joe Drake, president of Lionsgate's motion picture group, ""we can take the heat.",neutral,Sports,1.0,1.0,0,1,0,1,0,1,0,1,0,1
+192,"Most people will do it on Poe's writing, but he actually had a pretty interesting [military career](",admiration,"Education & Reference,Politics & Government",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+193,Going to have to argue for xenogears here.,"neutral,annoyance","Politics & Government,Society & Culture",2.0,1.0,0,1,0,1,0,0,1,0,0,0
+194,You'll have access going forward so comment when you have the time.,neutral,"Computers & Internet,Politics & Government",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+195,(via complaining about complaining) and tell you (and all the other complainers) to **shut up already** (I can use bold too!!! :P).,,,,,0,0,1,0,0,0,1,0,0,1
+196, @NextStop_Logan: Girls that respect themselves get respect from me :),"admiration,neutral","Entertainment & Music,Family & Relationships",2.0,1.0,0,1,0,1,0,0,1,0,0,0
+197,"Can't wait for Friday! Our Acoustic Evening will be @BTPbarnstaple, doors open 7:30pm, 3 otd, raising money for @DevonAirAmb.","neutral,excitement,curiosity",Entertainment & Music,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+198,It also uses Chinese traditional orchestral instruments as background music during the narrative.,,,,,0,0,1,0,0,0,1,0,0,1
+199, @Evettexo: Be careful who you show your weaknesses with.,,,,,0,0,1,0,0,0,1,0,0,1
+200,"It was so great that the gorgeous day fell on Saturday!Pictures can't do justice to the glorious colors, but it's the best I can do.",,,,,0,0,1,0,0,0,1,0,0,1
+201, It'll fall like Bram.,neutral,Science & Mathematics,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+202,"Nope, not dealing with this today, tomorrow, ever.","disapproval,neutral,optimism","Society & Culture,Family & Relationships",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+203,Each week they produce a variety of creations which I'm sure you will agree are very inspiring.,"approval,admiration","Society & Culture,Business & Finance,Entertainment & Music",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+204,The greatest idea in computer science is the two state switch (sometimes implemented in the real world as a transistor).,,,,,0,0,1,0,0,0,1,0,0,1
+205,Wow! Colour combo! Heaven!!!Your shabby dishes?,,,,,0,0,1,0,0,0,1,0,0,1
+206,This time next year I will be pushing a brand new whip and dropping a hot new album #winning,"optimism,excitement,desire,neutral","Entertainment & Music,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+207,@Pinki_iz_here I love lOng hear ,,,,,0,0,1,0,0,0,1,0,0,1
+208,"ftr, I really doubt many people make vote-up posts for the sake of karma (unless they wanted less karma, as the average vote-up story tanks b/c of 'users like you!').",,,,,0,0,1,0,0,0,1,0,0,1
+209,The restructuring will most likely have no effect on Blizzard.,neutral,Business & Finance,1.0,0.0,1,1,1,0,0,1,1,0,0,1
+210,"**PSA**ALL GODBY GIRLS BASKETBALL PLAYERS, I AM UR NEW COACH (UR OLD COACHES SADLY WENT MISSING..#TRAGEDY) WE WILL ALL MEET..AT MY HOUSE:)",sadness,Sports,2.0,2.0,1,1,1,0,0,0,0,0,1,0
+211,The elder Bush wasn't sure he was going to be that rash.,"confusion,neutral,disapproval",Politics & Government,1.0,2.0,0,1,0,1,0,1,0,1,0,1
+212,Tomorrow you will be dust.,neutral,Society & Culture,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+213,"If you really want to do something, you'll find a way.",neutral,"Business & Finance,Education & Reference",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+214,"There were libraries back then, though.",,,,,0,0,1,0,0,0,1,0,0,1
+215,"I have been going to the current General Synod for too long, as an alternate and then as an elected representative, and it's time I quit.",neutral,"Politics & Government,Society & Culture",1.0,2.0,0,1,0,1,0,1,0,1,0,1
+216,That rich guy's dollar will afford him lots of clout with those corrupt politicians.,"neutral,annoyance",Politics & Government,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+217,which means shifting away from toxic blame and being brave enough to build a better future.,"neutral,approval,optimism","Politics & Government,Society & Culture,Education & Reference",2.0,2.0,0,1,0,1,0,1,0,1,0,1
+218, It WOULD be the exact same bullshit - except with Obama as the bad guy.,,,,,0,0,1,0,0,0,1,0,0,1
+219,you beat me to it.,,,,,0,0,1,0,0,0,1,0,0,1
+220,"I don't know how it works in the UK, but in the US a defense lawyer could most likely get ahold of any CCTV footage.",,,,,0,0,1,0,0,0,1,0,0,1
+221,"And then, perhaps, I will feel less ashamed of the church that brought me, all these years ago, to God.","remorse,disappointment,sadness,embarrassment",Society & Culture,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+222,Not to mention the 50 % of the world's entire military expenditure which the US has.,,,,,0,0,1,0,0,0,1,0,0,1
+223,@hannahmcmahon96 I probs will with medicine :/ I got a B lol that's good enough for me haha xx,amusement,Health,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+224,"Yeah, but we are not going to get any 'accountability' from Obama either, that damned protector of Torturers!","anger,annoyance,approval,disapproval",Politics & Government,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+225,US power is absolutely formidable.,,,,,0,0,1,0,0,0,1,0,0,1
+226,Each week they produce a variety of creations which I'm sure you will agree are very inspiring.,"approval,admiration","Society & Culture,Business & Finance,Entertainment & Music",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+227,"My yt friends, ima need some answers, this what yall doing lmao",,,,,1,0,0,0,1,0,0,0,1,1
+228,There are serious predictions that the price of gasoline will go over $5 in the near future.,"neutral,optimism","Business & Finance,Science & Mathematics",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+229,Tommie CopperEveryone knows how much I love Tommie Copper gear.,,,,,0,0,1,0,0,0,1,0,0,1
+230,Perhaps you want to learn a language that is radically different from Ruby.,,,,,0,0,1,0,0,0,1,0,0,1
+231,Thanks for the chance of winning your beautiful RAK! I'm now a follower.,,,,,0,0,1,0,0,0,1,0,0,1
+232,"And whenthe CIA arrive to recruit Vicki for one last mission, she finds her past and her future are about to collide In murder.",neutral,"Politics & Government,Entertainment & Music",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+233,They wouldn't be voting for policies that keep the abortion rate artificially high.,,,,,1,0,0,0,1,0,0,0,1,1
+234,"What follows is a shameless pictorial representation of my efforts, some of which will feature more prominently in'28mm Victorian Warfare'at a later date, presented here in roughly chronological order.",neutral,"Education & Reference,Politics & Government",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+235,&gt;They have an emotional attachment to the idea of saving babies.,,,,,0,0,1,0,0,0,1,0,0,1
+236,"maybe tomorrow, if i have time",neutral,"Entertainment & Music,Sports",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+237,"At a very minimum it'll make someone's day nicer,..","optimism,approval,neutral,admiration",Society & Culture,2.0,1.0,1,1,1,0,0,1,1,0,0,1
+238," @vantebear_: ""I think ARMY are like 'Re' because you 'Do' make 'Mi' crazy for you.""-Taehyung ",,,,,0,0,1,0,0,0,1,0,0,1
+239,It'll be a longgggg time till u feel thissss @stylez_v,neutral,Family & Relationships,0.0,0.0,1,1,1,0,0,1,1,0,0,1
+240,One of the US fleet groups can go head to head with all other navies in the entire world combined.,,,,,0,0,1,0,0,0,1,0,0,1
+241,"@JacobGhosty Nice bro, this is some cool stuff to read and make my mood better while Im failing this class.",,,,,0,0,1,0,0,0,1,0,0,1
+242,SAC has no plan for our health care resulting devastating public health impacts on communities in Myanmar. ,,,,,0,0,1,0,0,0,1,0,0,1
+243, @craigowens: Going to try to be at merch EVERY night.,neutral,"Sports,Entertainment & Music",2.0,1.0,1,1,1,0,0,0,0,0,1,0
+244,@SteveScully Perry NEEDS to drop out after SC....his Bain criticism will come back to haunt him if he ever tries to run again..big mistake!,"neutral,disappointment,annoyance,sadness",Sports,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+245, @elliepeek: god i wish my head was this empty,,,,,0,0,1,0,0,0,1,0,0,1
+246,Will do today's tomorrow.,neutral,"Society & Culture,Entertainment & Music",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+247," Obama never served in the military, whereas McCain was captured and tortured for years.",,,,,0,0,1,0,0,0,1,0,0,1
+248,"Huh! Absolutely **Nothing**!Oops, sorry, that's from a song about *war*, never mind.",,,,,0,0,1,0,0,0,1,0,0,1
+249,I like boston but this game is not going to be to easy for the thunder,"disapproval,love",Sports,2.0,1.0,1,1,1,0,0,1,1,0,0,1
+250,"I just know you diehard Royalists will love these (Faux Fuchsia, I am thinking of you).",love,"Society & Culture,Politics & Government",1.0,1.0,0,1,0,1,0,1,0,1,0,1
+251,Guys get grills and just have their mouth open 24/7 for no reason like close ur mouth ,,,,,0,0,1,0,0,0,1,0,0,1
+252,I have a gut feeling that taking karma away for self posts was at least partially related to placating the greasy wheels on reddit.,,,,,0,0,1,0,0,0,1,0,0,1
+253,Went to church on Sundays after bbq'ing with friends on Saturday nights.,,,,,0,0,1,0,0,0,1,0,0,1
+254,"We complained about the heat, and he said over the next 2 months, it'll get much hotter.","neutral,approval","Sports,Science & Mathematics",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+255,"But since it's *only* women we're talking about--a group you perceive as of little relative worth, you find this all perfectly benign and acceptable.",,,,,0,0,1,0,0,0,1,0,0,1
+256,Some people will literally hijack Islam for their own violent purposes.,"neutral,annoyance,anger","Society & Culture,Politics & Government",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+257,You want me so bad dont you?,,,,,0,0,1,0,0,0,1,0,0,1
+258,It took two people to close some of the gates we had to go through and the steam didn't ever fully disapate from the lake surface.,,,,,0,0,1,0,0,0,1,0,0,1
+259,@philmoule I've seen a few at Bicycle Express on Halifax St. Gaz will know the best place/s though.,"neutral,admiration,approval,optimism",Sports,2.0,1.0,0,1,0,1,0,1,0,1,0,1
+260,Career options tend to be limited for a 20-year-old college student...,,,,,0,0,1,0,0,0,1,0,0,1
+261,I'll keep my eye open because Tombow markers blend beautifully on it and the iridescence shines through whatever colour you apply! I added colour to the edges and blended in with water.,"admiration,approval,neutral",Science & Mathematics,1.0,1.0,0,1,0,1,0,1,0,1,0,1
+262,I love your cards! Congrats on the win at ATCAS! I'll be CASing this one shortly!Darnell said...,"love,admiration",Sports,2.0,1.0,1,1,1,0,0,1,1,0,0,1
+263,"What you have painted are of stuff great quality and I do love the ""cooking"" pot ReplyDelete Replies Thank you my good man, but you should definitely think about entering next year.","gratitude,admiration","Society & Culture,Sports",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+264,"BP collected a smaller amount of oil than usual on Wednesday, about 969,000 gallons.",,,,,0,0,1,0,0,0,1,0,0,1
+265," @katriellmendez: Queeremos @jnefoficial no bbb12 #LLLNoBBB '""",neutral,Family & Relationships,2.0,1.0,0,1,0,1,0,0,1,0,0,0
+266, @UberFacts: Pineapple juice will make sperm taste sweeter.,neutral,Health,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+267,Ibada iliendeshwa kwa kiingereza na akawepo mtu wa 'kutusaidia' kwa kiswahili.,,,,,0,0,1,0,0,0,1,0,0,1
+268,"Let's keep in mind, though, that ""strategic"" strikes are also intended to shut down an enemy country's capacity for industrial production, which tend to be based in large cities.",,,,,0,0,1,0,0,0,1,0,0,1
+269,He's been on the walking tour we're doing tomorrow (in spite of the fact that it's supposed to be even hotter than today).,neutral,"Entertainment & Music,Sports",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+270,"When I told her Bending The Spine she looked up and said Oh, I know that blog. Yeah You could have knocked me over with a feather.",,,,,0,0,1,0,0,0,1,0,0,1
+271,"Under executive branch policy, the EPA will not sue the Pentagon, as it would a private polluter.",neutral,Politics & Government,0.0,2.0,1,1,1,0,0,1,1,0,0,1
+272,"Or if your neighbor plants some GM stuff and it cross-pollinates with your crop, then the company charges you for growing plants with their copyrighted genes.",,,,,0,0,1,0,0,0,1,0,0,1
+273,They're likely programmed by their culture--and the casual acceptance of people like you--for it.,,,,,0,0,1,0,0,0,1,0,0,1
+274,@sipsonlemonade Screenshotting this and sending it to me counts as sending me the emoji Rita.,,,,,0,0,1,0,0,0,1,0,0,1
+275, @SB_Senyora19: Normal lang bang maiyak dahil sa picture?,,,,,0,0,1,0,0,0,1,0,0,1
+276,"Nikuase kwanza, kwamba usilazimike kunielewa vibaya.",,,,,0,0,1,0,0,0,1,0,0,1
+277,He;s notorious and I love him.,,,,,0,0,1,0,0,0,1,0,0,1
+278,"I don't believe I stated that ""All religion is evil"".",,,,,0,0,1,0,0,0,1,0,0,1
+279,30 people followed me and 4 people unfollowed me // automatically checked by ,,,,,0,0,1,0,0,0,1,0,0,1
+280,Also giving some stuff away?,,,,,0,0,1,0,0,0,1,0,0,1
+281,"That was hilarious! ""I sent you this email..."" (goes to account, deletes email) ""I don't see it here"", ""Oh, I guess I didn't send it"".",,,,,0,0,1,0,0,0,1,0,0,1
+282,I agree with the author: adding more bureaucracy rarely makes a situation better for the public.,,,,,0,0,1,0,0,0,1,0,0,1
+283, @_frijol: @MarysNinja_ cool! If i can go I'll get there around 5 cool?,"curiosity,neutral","Entertainment & Music,Family & Relationships,Business & Finance,Society & Culture",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+284,: @DAYVIDloveOREOS @craigowens will you be doing any meet & greets on the upc ...,neutral,"Sports,Family & Relationships,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+285,"Our bathroom has a ""sanitary"" toilet, that will only flush, with a really loud, electric humming sound, when the lid is down.",neutral,"Health,Society & Culture",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+286,"But he still calls it ""pee pee.""So when hesays""mommy I gotta go pee pee I'm notreally surewhat to expect.",,,,,0,0,1,0,0,0,1,0,0,1
+287,Hope to see ya there! @aimlab you would come say h ,,,,,1,0,0,0,1,0,0,0,1,1
+288, @ZodiacZone: #Leo will give 110% in bed.,neutral,"Entertainment & Music,Family & Relationships",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+289,And for their further safety and comfort I plan to introduce one of the most famous liftboys in literature shortly - my Dutch readers will know of whom I speak.,"neutral,optimism,approval",Education & Reference,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+290,going to see if i can connect my #DSi at my friends i don't think it will work ,"optimism,neutral,confusion,desire",Computers & Internet,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+291,Story unreadable due to high amount of British slang.,,,,,0,0,1,0,0,0,1,0,0,1
+292,"Fossil Fighters 1 and 2, Nintendo DS.",,,,,0,0,1,0,0,0,1,0,0,1
+293,The article says he was giving predictions about the future on TV.,neutral,"Sports,Entertainment & Music",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+294,The raffle prizes all displayed.....,,,,,0,0,1,0,0,0,1,0,0,1
+295,The world will let you die if you don't have a survival attitude and fend for yourself.,"neutral,caring",Society & Culture,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+296,"As a result, for everyone online players who wish to promptly advancement ones own cartoon wow gold online professions with the adventure, outdoor is simply not a fairly good pick.",,,,,0,0,1,0,0,0,1,0,0,1
+297, @1khabyofficial: The most beautiful places on earth ,,,,,0,0,1,0,0,0,1,0,0,1
+298,a person who truly appreciates you will walk with you and won't need to be chased,"admiration,neutral","Family & Relationships,Education & Reference,Business & Finance,Society & Culture",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+299,"I'll explain everything you did to your sister and how you only had the best of intentions towards me and that will be that, Erim.""""Richy-san, maybe...",neutral,"Family & Relationships,Society & Culture,Education & Reference",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+300,"Right, but breathing air eventually kills the entire experimental group also.",,,,,0,0,1,0,0,0,1,0,0,1
+301,"&gt;Same bullshit that happened in 2004 when Kerry, the REAL Hero in Vietnam got swiftboated by the Wingnuts, while Bush got a pass on going AWOL from the guard.",,,,,0,0,1,0,0,0,1,0,0,1
+302, @BurninFenix: Custom: Tied up for Pleasure by @NikkiLove4200 @manyvids ,,,,,0,0,1,0,0,0,1,0,0,1
+303,Good things are on the way.,,,,,1,0,0,0,1,0,0,0,1,1
+304,watching the video for weightless and realising that in 2 days im going to be one of those losers makes me far too happy,joy,Health,2.0,1.0,1,1,1,0,0,1,1,0,0,1
+305,I remember seeing Boyz II Men in shady clubs.,,,,,0,0,1,0,0,0,1,0,0,1
+306," I'm getting the 3G one, so it's also cool to know that I can have internet anywhere (or wherever AT&amp;T will let me).","approval,neutral,joy,excitement","Entertainment & Music,Computers & Internet",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+307,The pictures showed a sweet little boy dressed in soft greens and yellow stripes.,,,,,0,0,1,0,0,0,1,0,0,1
+308,Don't ban me or I'll ban you...,anger,"Entertainment & Music,Society & Culture,Family & Relationships",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+309,never assume that you know what the other person's dreams are and never assume they'll get tired of sharing them with you if you are just willing to ask.,"neutral,disapproval","Family & Relationships,Business & Finance",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+310,Too bad he's on vacation :-/,,,,,0,0,1,0,0,0,1,0,0,1
+311, There will be not be messy yards or weeds on her watch if she has her way.,neutral,"Family & Relationships,Health,Society & Culture",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+312,"I saturate all the cells in my body with love, and they become vibrantly healthy","love,admiration","Health,Family & Relationships",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+313,I'll definitely try it.,"optimism,approval,neutral","Society & Culture,Business & Finance,Entertainment & Music,Education & Reference",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+314,i'll do it before this weekend so everyone can see it,"neutral,approval","Entertainment & Music,Sports",2.0,0.0,1,1,1,0,0,1,1,0,0,1
+315,"So sweet and such beautiful details, your image is just adorable also! Thanks for sharing your creation with us @ CTO for our ""Spring is in the Air"" Challenge :)Shea said...",,,,,0,0,1,0,0,0,1,0,0,1
+316,He just said he was from the future -- he didn't say he was from the future on Earth! So it makes sense after all.,"neutral,approval","Society & Culture,Science & Mathematics,Entertainment & Music",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+317,I'll be writing more later.,neutral,"Society & Culture,Entertainment & Music",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+318,@AfricanMuslimah okey inshallah come and visit us I will give my salams to mum u give my salams to your mum and the gurls x,neutral,"Society & Culture,Family & Relationships",0.0,2.0,1,1,1,0,0,1,1,0,0,1
+319," McCain IS a Vietnam vet, and in most people's eyes, a war hero.",,,,,0,0,1,0,0,0,1,0,0,1
+320,Ill have to go on Tuesday then.,,,,,1,0,0,0,1,0,0,0,1,1
+321,I'd say that the core of the paper's interest is in the following graphs:1.,,,,,0,0,1,0,0,0,1,0,0,1
+322,"It has about 25,000 contaminated properties in all 50 states, and it will cost billions and take decades to clean them up.","neutral,approval","Health,Science & Mathematics,Politics & Government,Business & Finance",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+323,@heyrod_ well I'll ask my mum later ok,neutral,"Family & Relationships,Entertainment & Music",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+324,will run home and give them a few biscuits..,neutral,"Society & Culture,Entertainment & Music,Politics & Government",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+325,"I hate his warm brown eyes with flecks of gold, his chiseled face and broad shoulders.",,,,,0,0,1,0,0,0,1,0,0,1
+326,addison rae if ur seeing this i love you,,,,,0,0,1,0,0,0,1,0,0,1
+327,@MolllyMack @shopholachica it went well!! a lil slow bc of summer but tonight should be great!,,,,,0,0,1,0,0,0,1,0,0,1
+328, @hollyduh_llison: I hate it when you're showering and a bad song plays and you cant change the song..,anger,Entertainment & Music,2.0,1.0,0,1,0,1,0,0,1,0,0,0
+329,@ArianaGrande will not notce i exist,neutral,"Society & Culture,Family & Relationships",0.0,2.0,1,1,1,0,0,1,1,0,0,1
+330,From big arenas to night clubs #ThisIsPopNetflix,,,,,0,0,1,0,0,0,1,0,0,1
+331,Lay out details of how the venture is going to make the revenue necessary for a profit and be prepared to have collateral.,neutral,Business & Finance,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+332,"2 comments: Avatar looks amazing!! I suck at cards fullstop!!!lol ReplyDelete Yes, I am not good with cards either.",,,,,0,0,1,0,0,0,1,0,0,1
+333, You aren't set at a fixed height though a woman will make judgments based on her assessment of your value.,neutral,"Family & Relationships,Society & Culture",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+334,Valentines going to suck I have no one to share it with.......forever alone,"disappointment,annoyance,neutral,sadness","Society & Culture,Family & Relationships",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+335,"A classic bake, with a Deliciously British twist The perfect family baking recipe, our Rhuberry #VictoriaSponge ",,,,,0,0,1,0,0,0,1,0,0,1
+336,@SophieOrwinn_ the ironic thing is that we will both actually have boners! Howdy neighbour,neutral,"Politics & Government,Society & Culture",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+337,"A sex drive limits our will, for instance.",neutral,"Family & Relationships,Politics & Government",2.0,0.0,0,1,0,1,0,1,0,1,0,1
+338," @Ayomituntide_: Please, shes still missing .",,,,,0,0,1,0,0,0,1,0,0,1
+339,"Scrolled through huge amounts of crap to find Natural Selection 2, proof that pc gaming has a future.",neutral,"Science & Mathematics,Computers & Internet",1.0,1.0,0,1,0,1,0,1,0,1,0,1
+340,Every federal decision is made based on how much money it will make.,neutral,"Politics & Government,Business & Finance",2.0,2.0,0,1,0,1,0,1,0,1,0,1
+341,"I guess that's politics, it's only an issue until it works in your favor.",,,,,0,0,1,0,0,0,1,0,0,1
+342,"Short people are discriminated against in the NBA, people with poor vision can't become pilots, and we don't let mentally slow people become surgeons.","neutral,disapproval",Sports,2.0,0.0,0,1,0,1,0,1,0,1,0,1
+343, @goutemoix: Mike Epps done fucked around and met his match lmao.,,,,,0,0,1,0,0,0,1,0,0,1
+344,Call you tomorrow...PROMISE! @bethanydionne: @WriteHereYONKee now u know that won't happen but I still have to say it.,"neutral,optimism","Family & Relationships,Society & Culture",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+345,"On Thursday, the EPA informed Maryland that in September it will recommend Fort Detrick be added.",neutral,"Politics & Government,Health",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+346, @4TheCulture____: Walking down hills be like ,,,,,0,0,1,0,0,0,1,0,0,1
+347,"Please add songs from BE, MOTS7, LY: Tear that are close to 100M to your PLs lets get them all to 100M by this year ",,,,,0,0,1,0,0,0,1,0,0,1
+348,Paradox Error in Line 0.,,,,,0,0,1,0,0,0,1,0,0,1
+349,"Every single time someone throws a pair of dice, a long shot is pulled off, in other words.",,,,,0,0,1,0,0,0,1,0,0,1
+350,"CARNIFEX Release Music Video! Today, San Diego deathcore pioneers, CARNIFEX, hav",,,,,0,0,1,0,0,0,1,0,0,1
+351,"We must play'Happy Birthday'for you, Amber suggests, sitting the past glass of champagne on the chest of drawers.",,,,,0,0,1,0,0,0,1,0,0,1
+352,Absolutely wonderful - brilliantly coloured!Cath xStampsnob.,,,,,0,0,1,0,0,0,1,0,0,1
+353,This is really just mental gymnastics.,,,,,0,0,1,0,0,0,1,0,0,1
+354,the only caveat is that you need to make sure that an activity happening in one environment will not interfere with an activity in another environment.,neutral,"Science & Mathematics,Education & Reference",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+355," @YoHoLikeMeTho: One day you'll realize the games get old , there's nothing wrong with putting all your time & energy into one person .","neutral,realization,approval","Sports,Family & Relationships",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+356,"If we rotate locations, I'll donate my living room.",neutral,"Society & Culture,Business & Finance",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+357,"If Vivendi doesn't want Kotick to meddle, Kotick will not be meddling.",neutral,Politics & Government,1.0,0.0,1,1,1,0,0,1,1,0,0,1
+358, @karen09514808: @0_politics2 Because Democrats are not a cult.,,,,,0,0,1,0,0,0,1,0,0,1
+359,"the optimum age for this sort of IQ test is 21, give or take.",,,,,0,0,1,0,0,0,1,0,0,1
+360,"Matt asked me to select what to do tomorrow, and so I looked through the chapter on Berlin and picked what sounded most interesting.","curiosity,neutral,approval,excitement",Education & Reference,1.0,0.0,0,1,0,1,0,1,0,1,0,1
+361,Don't play the 3rd one.,,,,,0,0,1,0,0,0,1,0,0,1
+362,So are we going to be hung up on a historical fallacy while loving couples wait to have their union celebrated in the church they still - and God must wonder why - adhere to?,"curiosity,confusion","Society & Culture,Family & Relationships",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+363,"Instead, I'd to venture upstairs to look for her.",,,,,0,0,1,0,0,0,1,0,0,1
+364,"correction: i still enjoyed!unlucky about tonights game tho, it was a bit of a bitch.",joy,"Sports,Entertainment & Music",2.0,1.0,0,1,0,1,0,0,1,0,0,0
+365, @Omarruizz10: pull up on her with flowers just cuz,,,,,0,0,1,0,0,0,1,0,0,1
+366,Thereis onlyone extreme gore scene and Olaf Ittenbach provides the special fxso that scenewill surelydelight fans of blood and gore.,neutral,Entertainment & Music,0.0,1.0,1,1,1,0,0,1,1,0,0,1
+367,"That doesn't, of course, make nuking cities ""right,"" but it does fill a genuine military/strategic need.",,,,,0,0,1,0,0,0,1,0,0,1
+368,"Sleeping in is easy, especially when you're wrapped in a luxury cocoon.",,,,,0,0,1,0,0,0,1,0,0,1
+369,@youmakeonemist1 r.i.p &lt;/3 i highly recommend the vod,,,,,0,0,1,0,0,0,1,0,0,1
+370,"We really learned something about computers back then, instead of waging flame wars on the internet, endlessly debating about which of the newest toy language is the best.",,,,,0,0,1,0,0,0,1,0,0,1
+371," Consider that the arch of his back mirrors the curve of the metal, and it becomes not that he's subservient to, or master over the machine, but literally part of it.",neutral,"Science & Mathematics,Society & Culture",2.0,0.0,0,1,0,1,0,1,0,1,0,1
+372,IM WATCHING A ORCA WHALE SHOW,,,,,0,0,1,0,0,0,1,0,0,1
+373, Carla Ramey is the president of the Beautification Committee and she is working diligently to make sure the town will win the Make Kentucky Colorful award.,"neutral,approval","Education & Reference,Society & Culture,Politics & Government",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+374, Leading with the mindset will remind people why they are doing agile in the first place.,neutral,"Education & Reference,Business & Finance",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+375, The company should pay you for contaminating your crop with their uninvited property.,,,,,0,0,1,0,0,0,1,0,0,1
+376," I was all set to make a scene for the 86th challenge, and the days went, the challenge changed.........I'm behind already and its only week 4 of the year.",neutral,Entertainment & Music,0.0,0.0,0,1,0,1,0,0,1,0,0,0
+377, Just use LOTS of RED on your CARD.,,,,,0,0,1,0,0,0,1,0,0,1
+378,"At the train station, I got to sit on a bench and finally work on making sure I'll be able to understand my hand written photo notes.","neutral,approval",Entertainment & Music,1.0,1.0,0,1,0,1,0,1,0,1,0,1
+379, @sobrangbitter: will do my homework now..,neutral,"Science & Mathematics,Education & Reference",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+380, It'll will also be a much more comfortable toilet companion than my laptop.,"neutral,approval,optimism",Computers & Internet,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+381,Last seen at campus gate OAU.,,,,,0,0,1,0,0,0,1,0,0,1
+382,Emily is going to make me cry .,sadness,"Entertainment & Music,Family & Relationships,Society & Culture",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+383," @luxekaeya: me, ar16, watching me, ar50, doingplayers deal 100k dmg100k dmg",,,,,0,0,1,0,0,0,1,0,0,1
+384,"He spoke English and moved here 7 months ago, following his German girlfriend, who is going to school here.",neutral,Sports,2.0,0.0,0,1,0,1,0,1,0,1,0,1
+385,"Beyond that, perhaps one day we will send colonies out to Jupiter and Saturn to study those systems and see what they have to offer.",neutral,Science & Mathematics,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+386,@N_alveess @dariele_ @MateusM62041345 HAUAUAUUAAUA AHAM,,,,,0,0,1,0,0,0,1,0,0,1
+387,The same thing will probably happen again or worse.,"annoyance,disgust,optimism,fear",Politics & Government,2.0,1.0,1,1,1,0,0,1,1,0,0,1
+388,PM your email address to me and I'll attach the 12.5 kB tarball that has both utils in it.,neutral,Sports,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+389," @eriistired: / kaeya, venti, rosariadid these for russian genshin modern ask ;; ",,,,,0,0,1,0,0,0,1,0,0,1
+390,I'll just watch family guy for the next 4 hours lol #obsessed,amusement,Entertainment & Music,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+391,Ginger Wildheart: The Triple Album Project update: Exclusive Video: Denmark Day 1 - Drums @PledgeMusic #gingerwildheart,neutral,Entertainment & Music,2.0,2.0,0,1,0,1,0,0,1,0,0,0
+392,Officials hope the ship can scoop up to 21 million gallons of oil-fouled water a day.,,,,,0,0,1,0,0,0,1,0,0,1
+393, @shrdoula: Love who loves you.,,,,,0,0,1,0,0,0,1,0,0,1
+394,i swear to god if they make us do pe outside i'm going to cry.,sadness,Society & Culture,1.0,2.0,0,1,0,1,0,1,0,1,0,1
+395," @NISAmerica: 10 days left! Almost getting into the single digits wreowToday we have Adol, but this time with a different hair color ",,,,,0,0,1,0,0,0,1,0,0,1
+396,Funding commercial enterprise to get us into low earth orbit cheaper and faster than ever before will do more to open up new frontiers than anything a risk averse NASA can do going forward.,neutral,Science & Mathematics,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+397,"I woke up the next day and drove around looking for her, but no luck.","disappointment,neutral,sadness,disapproval",Family & Relationships,2.0,2.0,0,1,0,1,0,1,0,1,0,1
+398,@emmabussey i did say i'll do it! and i will...dont you worry...,caring,"Entertainment & Music,Family & Relationships,Society & Culture",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+399,"@Dabonzi @Jekylline ja,en de linkse partijen willen zo graag regeren dat ze ook elke niet werkende coalitie aangaan en daarna over 1/2",neutral,"Society & Culture,Education & Reference",0.0,1.0,0,1,0,1,0,1,0,1,0,1
+400, @atensnut: So basically the FBI organized the January 6th fiasco.......and is now framing Trump supporters.,,,,,0,0,1,0,0,0,1,0,0,1
+401,1 Main ValleyThis last image is of a group which works to maintain the costume and traditions of this valley.,,,,,0,0,1,0,0,0,1,0,0,1
+402,"and how brilliant they are, whether miniaturesquely-minded or not!! I think I'll have to get at your splendid soup packet cabinets with the walnut stain when I'm there again.",admiration,"Society & Culture,Entertainment & Music",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+403,I WILL FOLLOW YOU BACK IF YOU FOLLOW ME - ,neutral,Entertainment & Music,1.0,2.0,1,1,1,0,0,0,0,0,1,0
+404, I think the trend of shorthand might be leading us down a path I'm not entirely willing to walk down.,"neutral,disapproval,optimism,approval","Politics & Government,Society & Culture,Education & Reference",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+405,@UM_ImLACE This is painful lmao,,,,,0,0,1,0,0,0,1,0,0,1
+406," Finding a PG-200 can be a little difficult, but you will want one.",neutral,"Sports,Education & Reference,Business & Finance",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+407,Then it'll last for years.,neutral,Politics & Government,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+408,"as witnessed by the fact that the day after the karma change was instituted, three vote-up posts were on the front page.",,,,,0,0,1,0,0,0,1,0,0,1
+409,The three tubes there are my fave colors!!!!creationsnz said...,,,,,0,0,1,0,0,0,1,0,0,1
+410,Everything works together very well.,,,,,0,0,1,0,0,0,1,0,0,1
+411,"Same bullshit that happened in 2004 when Kerry, the REAL Hero in Vietnam got swiftboated by the Wingnuts, while Bush got a pass on going AWOL from the guard.",,,,,0,0,1,0,0,0,1,0,0,1
+412, I think the height will always make him an easy target for takedowns and leg kicks.,"neutral,approval,optimism",Sports,0.0,1.0,1,1,1,0,0,1,1,0,0,1
+413,so happy got my c in english and its my birthday tomorrow yayy :D x,"joy,excitement","Entertainment & Music,Education & Reference,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+414,"I am confident that if your friends were to embrace such a position, you wouldn't be here making excuse after excuse for them.",,,,,0,0,1,0,0,0,1,0,0,1
+415, I've actually become rather fond if using them for handling error conditions in complex functions.,"neutral,approval,love",Science & Mathematics,2.0,2.0,0,1,0,1,0,1,0,1,0,1
+416,"@drummet90 THEN, I'LL STEAL YOURS.",neutral,Entertainment & Music,1.0,1.0,1,1,1,0,0,0,0,0,1,0
+417,@KingJ0HAN don't worry an existent one will come one day :3,"caring,neutral",Society & Culture,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+418,That is 6 months of doing well!HIGH FIVE me.,,,,,0,0,1,0,0,0,1,0,0,1
+419,"The military and economic power of the Western World is absolutely formidable and completely unrivaled in history, I'd dare say.",,,,,0,0,1,0,0,0,1,0,0,1
+420,Frank Tracy Thrown From Car Near Chittenango.,,,,,0,0,1,0,0,0,1,0,0,1
+421,support a black artist &amp; rt but it not thats cool too ,,,,,0,0,1,0,0,0,1,0,0,1
+422,"Thank you for following the story so far - apologies for the slowing down of blog posts but there will definitely be one more before Christmas, I promise.",gratitude,"Society & Culture,Politics & Government",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+423,"Please send me an email just saying you are ""justaguy"" to my contact information and I'll add you.",neutral,"Computers & Internet,Business & Finance,Family & Relationships",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+424,"I'd like to stop by but I'll be k-kinda busy, k-kinda busy so I won't","neutral,desire,approval",Entertainment & Music,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+425, Belief systems with false beliefs should be abandoned.,,,,,0,0,1,0,0,0,1,0,0,1
+426,"However, continued access will be based on participation, not necessarily an ""every post, every time"" level, but something.",neutral,"Politics & Government,Business & Finance,Computers & Internet",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+427,"Considering this decade is half-over, that's saying something.",,,,,0,0,1,0,0,0,1,0,0,1
+428,"Marys ambayo iko jirani na kanisa lile, waalimu hao ni raia wa Kenya.",,,,,0,0,1,0,0,0,1,0,0,1
+429,Next we are going to take out the left Kidney.,neutral,"Politics & Government,Health,Science & Mathematics",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+430,We dont worship the president.,,,,,0,0,1,0,0,0,1,0,0,1
+431,Love the Paint Palette and all of the beautiful colors.,,,,,0,0,1,0,0,0,1,0,0,1
+432,Niners actually have a shot of going to the Superbowl...this is not good.,disapproval,Sports,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+433,#Relationshiptips dont be so eager to hit the sheets...when she is ready you will know.,neutral,Family & Relationships,0.0,2.0,1,1,1,0,0,1,1,0,0,1
+434,"Louisville - August 30, 1871About ten o'clock this morning the fourth floor of Whitney, Brown & Co.'s grain...",,,,,0,0,1,0,0,0,1,0,0,1
+435,"Tuesday, February 12, 2013Cover Reveal: Accession by Terah EdunBlurb Teaser:She will be more powerful than the Blood could have ever imagined.",neutral,"Politics & Government,Education & Reference",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+436, @contentmo: Kindle Unlimited eBookRequiem for Geraldine Gerbil: A Police Detective Whodunnitby J.,,,,,0,0,1,0,0,0,1,0,0,1
+437,"It makes sense, in a way - We're wired by evolution to protect our young, etc.",,,,,0,0,1,0,0,0,1,0,0,1
+438,i'll start working on my dissy..no more honeymoon,"neutral,optimism,approval","Family & Relationships,Entertainment & Music",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+439,"In the long run, however, the game may have Centuris most important release of the year since Centuris relationship with Konami would prove perhaps even more lucrative than Sterns had been.",,,,,0,0,1,0,0,0,1,0,0,1
+440," Pip pip PS - next year, more French Marshals and more hoplites!!! ReplyDelete Replies That is incredibly kind of you old fruit, not sure about the French Marshals though.","neutral,confusion","Politics & Government,Education & Reference,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+441,A new programming language means needing to think about problem/solutions in a different way.,,,,,0,0,1,0,0,0,1,0,0,1
+442,"Get a local credit union you can trust and schedule bill payments through them, and you'll have little to no problems.","caring,neutral",Business & Finance,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+443, This will help make for a better future in Tunisia.,"optimism,neutral","Sports,Education & Reference",2.0,0.0,1,1,1,0,0,1,1,0,0,1
+444,"Add the NATO countries to that, and you end up with 80-90 % of the entire world's military expenditure.",,,,,0,0,1,0,0,0,1,0,0,1
+445,At Home With Books reviewed this memoir about life with this incredible bird and it really sounded interesting.,,,,,0,0,1,0,0,0,1,0,0,1
+446,"""Okay, let's go in."" What Erim just said worried me but I had more immediate problems -- I was finally going to meet with his older sister.","approval,caring,neutral,sadness","Education & Reference,Family & Relationships,Society & Culture",1.0,0.0,0,1,0,1,0,1,0,1,0,1
+447,"They have an emotional attachment, all right, but it's to controlling and hurting women.",,,,,0,0,1,0,0,0,1,0,0,1
+448,"@VaushV Bro next time you do you should do more segments on the Jimmy Dore ""left"" because everyday I'm seeing more ",,,,,0,0,1,0,0,0,1,0,0,1
+449,tomorrow maths test on p6 and prime factors whee:D,neutral,"Science & Mathematics,Education & Reference",0.0,2.0,1,1,1,0,0,1,1,0,0,1
+450,HB is climbing on my head.,,,,,0,0,1,0,0,0,1,0,0,1
+451,some redditors will trade you time with their GFs for it ...,neutral,Sports,2.0,1.0,1,1,1,0,0,1,1,0,0,1
+452," Because, you aren't going to be able to have both.","neutral,disapproval","Family & Relationships,Health,Politics & Government,Society & Culture",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+453,@KOLCHAN8 tbh i kinda like the idea of him beeping just to piss ppl off and speaking english normally wit ppl he likes,,,,,0,0,1,0,0,0,1,0,0,1
+454,"If you do, I will follow you on reddit for the next 3 weeks and upvote everything you post.","neutral,approval,optimism","Politics & Government,Computers & Internet",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+455,"""Let us explain please! This person will tell you that nothing happened between us!"" Erim begged.",neutral,"Society & Culture,Family & Relationships",0.0,2.0,1,1,1,0,0,1,1,0,0,1
+456, @NeNeLeakes: Catch me on Glee tomorrow nite on fox,neutral,Entertainment & Music,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+457,We made dinosaur feet last year from foam sheets.,,,,,0,0,1,0,0,0,1,0,0,1
+458,I don't even know what classes I have tomorrow !,confusion,Education & Reference,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+459,What really catches my eye may be the big reflection on the ceiling above her bed.,,,,,0,0,1,0,0,0,1,0,0,1
+460,But USAF_NCO is quite right.,,,,,0,0,1,0,0,0,1,0,0,1
+461,So are European countries with the overload of immigrants.,,,,,0,0,1,0,0,0,1,0,0,1
+462,"@noor3000 a B is good , add a + and it'll say Be positive.","admiration,approval","Education & Reference,Science & Mathematics",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+463,Gentlemen customers will have to avert their eyes as they pass through the store.,neutral,Business & Finance,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+464,"and he threatened me saying ""he has nigga's who'd be willing to pop shit off if he asked""","neutral,anger","Entertainment & Music,Society & Culture",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+465,"Cuz if not, I don't care.",,,,,0,0,1,0,0,0,1,0,0,1
+466,@pascalpouw haha nee nog niet :D but i will tell you soon!,amusement,Family & Relationships,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+467,With these I have created another small Fairy Garden in a basket planter that I had.,,,,,0,0,1,0,0,0,1,0,0,1
+468,"Yes, important because it was bad.",,,,,0,0,1,0,0,0,1,0,0,1
+469,I'd be willing to email the tiny utility to anyone that wants it.,neutral,Computers & Internet,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+470,"Thanks everyone for your thoughts, you're right Joan, that's more or less how it went.",,,,,0,0,1,0,0,0,1,0,0,1
+471, ReplyDelete Replies They do look alike.,,,,,0,0,1,0,0,0,1,0,0,1
+472,"I think you will get a price still, since your entires included my personal top three.","neutral,approval","Entertainment & Music,Business & Finance",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+473,Mark Pocan highlights Scott Walker's miserable record in Wisconsin and a formula he promises will work nationwide.,neutral,"Sports,Politics & Government",1.0,1.0,1,1,1,0,0,1,1,0,0,1
+474,I will no longer be a free meal for lurkers.,neutral,"Business & Finance,Society & Culture,Entertainment & Music",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+475, @PumpyDogeBSC: Help Us keep our $PALS safe! Join us: Visit us: $DOGE #DOGE #BABYDOGE,,,,,0,0,1,0,0,0,1,0,0,1
+476, The snow was purchased after Christmas last year for 25 cents.,,,,,0,0,1,0,0,0,1,0,0,1
+477," @RedefiningLives: The longer you play the victim role, the more you will become a victim to yourself.",neutral,"Society & Culture,Politics & Government,Business & Finance",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+478,"But I'll stick to my guns, because Jerry is my favorite musician of all time.","love,admiration",Entertainment & Music,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+479,"like this, i've been exposed to moas that i don't use prem",,,,,0,0,1,0,0,0,1,0,0,1
+480, @90sbts_twt: bts photos that you might haven't seen before: a thread; ,,,,,0,0,1,0,0,0,1,0,0,1
+481,"Psychic spy Vicki Boyd assists him in locating her againbut when he discovers Brendas true identity, he realizes his mission has just become very personal.","neutral,approval","Entertainment & Music,Society & Culture",0.0,1.0,0,1,0,1,0,1,0,1,0,1
+482,Just tryna find some people in the DeKalb area,,,,,0,0,1,0,0,0,1,0,0,1
+483,I was going to delete this account because I felt that too much tweeting about men would cause me to have no followers.,"neutral,annoyance,disappointment",Society & Culture,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+484,getting a bowl of ice cream then going to bed,neutral,"Family & Relationships,Health,Society & Culture",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+485,For the temporary solutions it should not matter what solution name/version you use since you will delete them anyway.,neutral,Computers & Internet,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+486,I wouldnt care about the living room or our bedroom..,,,,,0,0,1,0,0,0,1,0,0,1
+487,I'll slide for my niggas dawggg,neutral,Entertainment & Music,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+488," @Kayjnr10: What time is tonights VGMA, cos I have to finish watching this Italy vs Austria game ",,,,,0,0,1,0,0,0,1,0,0,1
+489,I'll fuck this chicken up my damn self!,anger,"Entertainment & Music,Society & Culture,Politics & Government",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+490," @ColonelBieber: Hanna is an amazing belieber who'll be in the army very soon, time is running out and she really deserves to meet Jus ...",admiration,Entertainment & Music,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+491,What Jane Ruth Acenge needed to do immediately when she bleached her own guidelines during campaigns a thing that v ,,,,,0,0,1,0,0,0,1,0,0,1
+492," As they succeed, so will our business.","optimism,neutral,approval",Politics & Government,2.0,0.0,1,1,1,0,0,1,1,0,0,1
+493,"STEP 3: AnniversaryEven though he has the wrong date, he still insists that the attacks on 9/11/01 are important.",,,,,0,0,1,0,0,0,1,0,0,1
+494,"Suppose their party went even further, and insisted that if the white person couldn't be saved, the doctor had to withhold treatment from the black person, too.",,,,,0,0,1,0,0,0,1,0,0,1
+495, I questioned it time and again and was told that each person would get a chance to become Catholic in their lifetime.,"confusion,neutral",Society & Culture,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+496," @MileyCyrus: I am devastated to find out a smiler has brutally lost their life due to hate, judgment, and injustice! To call this distur",,,,,0,0,1,0,0,0,1,0,0,1
+497,"Friday, June 22, 2012CongratulationsJasper and Pat DeVidal, of Decatur, Illinois, will celebrate their 50th wedding anniversary this weekend.","joy,excitement,neutral","Family & Relationships,Entertainment & Music",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+498,I heard once that Facebook was like internet crack but I disagree.,,,,,0,0,1,0,0,0,1,0,0,1
+499,Ethiopia gave seeds for 70,,,,,0,0,1,0,0,0,1,0,0,1
+500, @RevRunWisdom: You are NOT always going to make great decisions but I'm convinced God see's your heart & will bless u anyway,"caring,optimism",Society & Culture,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+501,i'd read source code instead.,,,,,0,0,1,0,0,0,1,0,0,1
+502, Doing something objectively stupid - like admitting fault - would be a good way to become uninsurable.,"annoyance,optimism,neutral,approval",Society & Culture,0.0,2.0,1,1,1,0,0,1,1,0,0,1
+503,[Note: Nana also loves to tell stories about how Papas mother used to feed him raw eggs when he was a child to try to fatten him up.,,,,,0,0,1,0,0,0,1,0,0,1
+504,My best friend is now dating and will probably end up marrying an ex of mine.,"neutral,love,approval,optimism",Family & Relationships,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+505,Nor would they be supporting demands for women to die even if the babies can't be saved.,,,,,0,0,1,0,0,0,1,0,0,1
+506,I'll eat those for you,neutral,Entertainment & Music,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+507, ReplyDelete Replies Not at all.,,,,,0,0,1,0,0,0,1,0,0,1
+508,Im Tryna go LA tomorrow boah,"desire,neutral,optimism,excitement","Sports,Family & Relationships,Entertainment & Music,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+509,"Of course, real wisdom and insight comes only with age and exposure to ever more and more knowledge and facts.",,,,,0,0,1,0,0,0,1,0,0,1
+510,I would really like to see him pop them.,,,,,0,0,1,0,0,0,1,0,0,1
+511,BUT...Will consider reselling to highest reddit bidder...,neutral,"Computers & Internet,Business & Finance",1.0,2.0,1,1,1,0,0,0,0,0,1,0
+512,So your answer doesn't generalize to all cases.,,,,,0,0,1,0,0,0,1,0,0,1
+513,One of the best is the Final Fantasy parody,,,,,0,0,1,0,0,0,1,0,0,1
+514,"The sweet scent of this flower has proved popular throughout the generations particularly in the late Victorian period, and has consequently been used in the production of many cosmetic fragrances and perfumes.",,,,,0,0,1,0,0,0,1,0,0,1
+515, @Strandjunker: 1923: Adolf Hitler led a failed coup.,,,,,0,0,1,0,0,0,1,0,0,1
+516,We filled the margins and edges with words and rarely abbreviations.,,,,,0,0,1,0,0,0,1,0,0,1
+517,You'll certainly enjoy the JX-3P!,joy,"Entertainment & Music,Sports",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+518,they're driving me crazy.,,,,,0,0,1,0,0,0,1,0,0,1
+519,"POSTSDAMEN PLATZ ""Parisian Square"" subway stationAfter Prussians defeated Napoleon, it was again filled with govt.",neutral,"Education & Reference,Politics & Government",1.0,2.0,0,1,0,1,0,0,1,0,0,0
+520,"Having said that, the answer depends on each person.",,,,,0,0,1,0,0,0,1,0,0,1
+521,@FPWellman @USAA You'd enabled and defended a pederast.,,,,,0,0,1,0,0,0,1,0,0,1
+522, IT WILL FUCKING KILL YOU.,anger,Health,2.0,2.0,1,1,1,0,0,0,0,0,1,0
+523,So sweet! ReplyDelete How darling is that??,,,,,0,0,1,0,0,0,1,0,0,1
+524,"[3] If God, particularly the American God, justifies such acts, who are we, mere mortals, to defy His will?","curiosity,neutral,confusion","Society & Culture,Politics & Government",2.0,2.0,0,1,0,1,0,1,0,1,0,1
+525,JudithHave a Daily Cup of Mrs.,,,,,0,0,1,0,0,0,1,0,0,1
+526, @KamiSevak: @kyle_scott87 @BernieSanders Fathers are also as important for the newborns' development as mothers are! It's sad that thes,,,,,0,0,1,0,0,0,1,0,0,1
+527,"I suspect that you would have no problem identifying their support of this party as evil, and that these people would no longer *be* your friends.",,,,,0,0,1,0,0,0,1,0,0,1
+528,"Reddit's open source now, but I would have no idea where to start.",,,,,0,0,1,0,0,0,1,0,0,1
+529,"It tests the g factor, which is basically a test of your buffer space for short term memory.",,,,,0,0,1,0,0,0,1,0,0,1
+530,Comparisons of genetic data from ancient and modern-day populations revealed significant changes in the mitochondrial makeup of North East Europeans through time.,,,,,0,0,1,0,0,0,1,0,0,1
+531, @MensHumor: I have a feeling there are going to be A LOT of babies born September 2013.,neutral,"Health,Entertainment & Music,Business & Finance",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+532," I think I'm getting screwed from every side, and I still don't know what for, with no one willing to talk to me, just ban me.","disapproval,annoyance,anger,disappointment","Politics & Government,Society & Culture",2.0,1.0,0,1,0,1,0,1,0,1,0,1
+533,@DesuKirika My condolences for bringing tokutwiter's wrath on you.,,,,,0,0,1,0,0,0,1,0,0,1
+534,"However, I will focus the remaining part of the article on media language and its contribution to the manufacturing of an alternative, convenient reality regarding the Middle East, but Israel and Palestine in particular.",neutral,"Politics & Government,Society & Culture",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+535,he'll follow me one day:),neutral,"Society & Culture,Family & Relationships,Entertainment & Music",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+536,"If you just BUY all the existing slaves, the money will be spend aquirering NEW slaves by the former owners of the then freed slaves.",neutral,"Education & Reference,Business & Finance,Politics & Government,Society & Culture",0.0,1.0,1,1,1,0,0,1,1,0,0,1
+537,"You'll get loans in no time if you ever do have to take one in the future, but its better to live on cash","neutral,optimism,approval,caring","Business & Finance,Education & Reference",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+538," I was going to have layers and frothy bits and glitter and bling, but I used pink instead.",neutral,Computers & Internet,1.0,0.0,0,1,0,1,0,1,0,1,0,1
+539,"Instead of ""W.,"" the film was going to be ""Pinkville,"" a look at the Army's investigation into 1968's My Lai massacre in Vietnam .",neutral,"Entertainment & Music,Education & Reference,Politics & Government",0.0,2.0,0,1,0,1,0,1,0,1,0,1
+540,New business owners will often seek easily attainable knowledge and many times they grow to regret it.,"remorse,neutral","Business & Finance,Education & Reference",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+541, @Ndidi26: Am typing to be my own kind of beauty ,,,,,0,0,1,0,0,0,1,0,0,1
+542,"Even the Romans had to fight with capable Germans, not to mention the large and powerful empire of the Parthians who repeatedly beat the Romans, even capturing one of their emperors.",,,,,0,0,1,0,0,0,1,0,0,1
+543,Perhaps you are too busy to really dive into a new language.,,,,,0,0,1,0,0,0,1,0,0,1
+544,@TheFactCompiler Sajiv Javid now has the job.,,,,,0,0,1,0,0,0,1,0,0,1
+545,@bieksler &gt;:| it's due tomorrow and i haven't even started ugh,"neutral,disappointment,annoyance",Education & Reference,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+546, This bodes well for their ability to apply Agile methods and practices and the future of Tunisia.,"approval,neutral,admiration","Sports,Education & Reference",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+547, ReplyDelete I haven't read this yet but hope to.,,,,,0,0,1,0,0,0,1,0,0,1
+548, @kadeart: It's a secret! ,,,,,0,0,1,0,0,0,1,0,0,1
+549,Take for example 7-11.,,,,,0,0,1,0,0,0,1,0,0,1
+550,Trying hard...hopefully this weekend will be time to sew!!!Anonymous said...,optimism,"Sports,Entertainment & Music,Family & Relationships",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+551,Teaching myself to crochet to make a blanket...a year long project also.,,,,,0,0,1,0,0,0,1,0,0,1
+552,"Normally about every other day, but sometimes I will smoke every day for a period of time.",neutral,Health,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+553,The leaves are smooth and dark glossy green.,,,,,0,0,1,0,0,0,1,0,0,1
+554,"I am finishing up the details now, but I have some things to do today and I will be busy most of tomorrow.","neutral,optimism","Entertainment & Music,Society & Culture",2.0,1.0,1,1,1,0,0,1,1,0,0,1
+555," If you want to participate and learn more, visit: Keep up the good work! ReplyDelete It's hard to pick one, isn't it?",,,,,0,0,1,0,0,0,1,0,0,1
+556,-_- *lempar william* @immanuelrap: Seeh anak jaman @elisajanuarita: @immanuelrap uda ga jamannya lagi kek gituan bang,neutral,Society & Culture,0.0,0.0,0,1,0,1,0,1,0,1,0,1
+557,"Stick with what you know will serve your purposes best and get you where you really need to be, and be prepared to work your ASS off at a full university.","caring,neutral",Education & Reference,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+558,@WiLL_Arruda Check out Nick Merico's new Rain music video.,neutral,Entertainment & Music,1.0,2.0,0,1,0,1,0,0,1,0,0,0
+559, #sbsuits #mensfashion #men #menwithstyle #menswear #mensfashion #custom #tailored #suit ,,,,,0,0,1,0,0,0,1,0,0,1
+560,The article is about GM research that intends to provide all that other stuff.,,,,,0,0,1,0,0,0,1,0,0,1
+561,@DanPriceSeattle REMINDER: Housing is a necessity &amp; theres not enough affordable housing for working people.,,,,,0,0,1,0,0,0,1,0,0,1
+562,There'll be an influx of newbies soon...,"neutral,optimism",Sports,1.0,1.0,1,1,1,0,0,1,1,0,0,1
+563,Fifteen people are known to have been drowned and more are missing It is impossible to estimate ...,,,,,0,0,1,0,0,0,1,0,0,1
+564,Along the right you will find my Design Team.,"neutral,approval",Computers & Internet,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+565,I'll tell everyone for you.,"neutral,caring","Society & Culture,Family & Relationships,Business & Finance",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+566,Hugs Tracy xFollow Me on Pinterest7 comments:cuilliesocks said...,"neutral,love,caring","Sports,Society & Culture",1.0,1.0,0,1,0,1,0,0,1,0,0,0
+567,@MiKaylaAnn13 Lost will throw you so many surprises! It's a great show,admiration,Entertainment & Music,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+568,Hell yea! @Bitch_ImDa_Bomb: @Oh_So_NASHTY: I'll admit it...I GOT COMMITMENT ANXIETY! &lt;--- Dont we all,"anger,annoyance,neutral,fear","Family & Relationships,Entertainment & Music",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+569,YOU WILL ALL BOW BEFORE ME.,neutral,"Society & Culture,Entertainment & Music",1.0,1.0,1,1,1,0,0,0,0,0,1,0
+570,Most recent news is at the bottom.,,,,,0,0,1,0,0,0,1,0,0,1
+571,ya tricking it into thinking there was glass in the screen when there was not.,,,,,0,0,1,0,0,0,1,0,0,1
+572,It was a little easier when they went to the surrounding fields to feed.,,,,,0,0,1,0,0,0,1,0,0,1
+573, @grunwalder: I can't wait to be a size where I can just want anything in the store and nothing will be too tight or too short,"curiosity,neutral,desire,excitement",Health,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+574,"So to my personal challenge; we were asked to consider a 'par' score before we started, something to aspire to, a goal if you will.","neutral,optimism",Sports,1.0,1.0,0,1,0,1,0,1,0,1,0,1
+575,Learn more about your pup with a food and environmental intolerance test ,,,,,0,0,1,0,0,0,1,0,0,1
+576,I AM 30! COME SAY HI.,,,,,0,0,1,0,0,0,1,0,0,1
+577,We'll call it ElementAvailable() or something.,neutral,Science & Mathematics,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+578,The compression sleeves help reduce the recovery time of muscles and support improved cir ,,,,,0,0,1,0,0,0,1,0,0,1
+579,"He was treated leniently, and Germany moved on.",,,,,0,0,1,0,0,0,1,0,0,1
+580,I suggested the Java version because the rest of the book has fewer typos than the other versions.,,,,,0,0,1,0,0,0,1,0,0,1
+581,who knows how it might go over the next fifteen years.,,,,,1,0,0,0,1,0,0,0,1,1
+582," Saying ""Fuck Religion"" either in the particular or general is legitimate speech, since it encourages people to reject belief systems with false beliefs.",,,,,0,0,1,0,0,0,1,0,0,1
+583,What a great idea for a fund raiser.,,,,,0,0,1,0,0,0,1,0,0,1
+584,You'll begin to notice a change in her behavior....,neutral,Family & Relationships,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+585,"The future president didn't quite get what the reproving ""barrel"" idiom meant, but he realized his father didn't respect him.","realization,disapproval,neutral,disappointment","Politics & Government,Education & Reference,Society & Culture",2.0,2.0,0,1,0,1,0,1,0,1,0,1
+586,"@pr3ttier_than_u were going to the.zoo and.to eat, I called you the other day..",neutral,"Entertainment & Music,Family & Relationships",1.0,2.0,1,1,1,0,0,1,1,0,0,1
+587, @LemmaKoricho: @ChrisCoons To end the human tragedy is simple.,,,,,0,0,1,0,0,0,1,0,0,1
+588,@WALLYG_ATNT ATTN: ATNT WILL BE LIVE SAT 21st w/ ATL's own Future @atntent #Makin History ((Indianapolis)) --,neutral,"Sports,Entertainment & Music",0.0,1.0,0,1,0,1,0,0,1,0,0,0
+589,"Oh no you can't make it stretch but use a lower resolution, if you set one lower than you max it will appear as an actual window within the screen.",neutral,Computers & Internet,1.0,2.0,1,1,1,0,0,1,1,0,0,1
+590,"Today is gardening day since the sun is shining, but tomorrow will be rainy so I'll get some stuff done.","optimism,neutral,desire","Society & Culture,Entertainment & Music,Business & Finance",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+591,"Berlin, they'd become a W.",neutral,"Politics & Government,Education & Reference",2.0,0.0,0,1,0,1,0,1,0,1,0,1
+592,Gay Marriage should *always* be denied and we should *never* compromise that position EVEN THOUGH I will always compromise my position on Earmarks to get Federal tax dollars back.,"neutral,disapproval","Politics & Government,Society & Culture",2.0,2.0,1,1,1,0,0,1,1,0,0,1
+593,They _probably_ shot her because she _probably_ did have a weapon she was going to use on them.,neutral,"Entertainment & Music,Politics & Government",0.0,1.0,0,1,0,1,0,1,0,1,0,1
+594,"Without this grand idea, computer security would be 40 years ahead of where it was.",,,,,0,0,1,0,0,0,1,0,0,1
+595,"He's got an optimist's brain, so I think you'll find it difficult to persuade him.","admiration,neutral,approval,optimism",Education & Reference,2.0,2.0,1,1,1,0,0,1,1,0,0,1
+596, @Ibrahimfarruk13: Where's my glow up?,,,,,0,0,1,0,0,0,1,0,0,1
+597,"""I'm listening, but I will add another crate every thirty seconds."" Sumirena-san said menacingly.",neutral,Entertainment & Music,2.0,1.0,1,1,1,0,0,1,1,0,0,1
+598,Air Swimmers Remote Control Flying Clownfish: William Mark Air Swimmers Remote Control Flying.,neutral,"Entertainment & Music,Sports",1.0,1.0,0,1,0,1,0,0,1,0,0,0
+599," Their time will come - and having seen something that Laura had on her blog recently, corsets have made a reappearance as a possible department.",neutral,Politics & Government,1.0,2.0,1,1,1,0,0,1,1,0,0,1
