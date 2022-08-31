@@ -20,11 +20,11 @@ This repo is intended to hold our code for the project with the general topic "s
 ## AWS Credentials
 BUCKET_NAMES =  ["corpus-iwo-internet-archive-wide00001"]
 
-AWS_ACCESS_KEY_ID = ***REMOVED***
+AWS_ACCESS_KEY_ID = ###REMOVED###
 
-AWS_SECRET = ***REMOVED***
+AWS_SECRET = ###REMOVED###
 
-ENDPOINT_URL = ***REMOVED***
+ENDPOINT_URL = ###REMOVED###
 
 später als BUCKET_NAMES auch corpus-iwo-internet-archive-wide00010 und corpus-commoncrawl-main-2022-05 als BUCKET_NAMES
 
